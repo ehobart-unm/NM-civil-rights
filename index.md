@@ -4,9 +4,9 @@ layout: base
 date: 2026-09-16
 ---
 
-# NM Civil Rights
+# New Mexican Civil Rights
 
-This is your homepage — the first thing visitors see. Write two or three sentences that introduce who you are and what you do. Think of it as a brief professional statement: your field, your focus, and what makes your work distinctive. Keep it short; the cards below link to your other pages where you can go into depth.
+How is the term Civil Rights defined?  Through the stories presented on this website, several key New Mexican Chicanx figures will be presented, along with their tales and how they worked for equality and justice for all Chicanx people.
 
 Your name, photo, bio, and links come from `_data/nav-profile.yml`, not from this file. Edit them there and this block updates.
 
