@@ -8,7 +8,7 @@ summary: Replace this with a one- or two-sentence summary of your research. This
 thumbnail: assets/images/Photo of Bella - 2.jpg
 ---
 
-This is your Research page. Replace everything below this line with your own content. A research page typically includes an overview of your scholarly interests, descriptions of current and past projects, and any relevant links or media.
+The Land Grant movement in New Mexico is best exemplified by Reies Lopez Tijerina, who championed restoration of the original Spanish/Mexican land grants to the community.  He believed [find some quote here]
 
 The `summary` and `thumbnail` fields in the front matter at the top of this file (between the `---` lines) control the card on your homepage. Update both when you update the page.
 
