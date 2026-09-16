@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Educator Rights
 layout: base
 date: 2025-09-30
 homepage: TRUE
