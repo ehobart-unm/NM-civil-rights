@@ -5,7 +5,7 @@ date: 2025-09-30
 homepage: TRUE
 position: 1
 summary: The Land Grant movement in New Mexico is best exemplified by Reies Lopez Tijerina, who championed restoration of the original Spanish/Mexican land grants to the community.  He believed that the people should own the land communally rather than it being sold off as individual plots.
-thumbnail: assets/images/Photo of Bella - 2.jpg
+thumbnail: assets/images/Reies_Tijerina_1968_Edit.jpg
 ---
 
 The Land Grant movement in New Mexico is best exemplified by Reies Lopez Tijerina, who championed restoration of the original Spanish/Mexican land grants to the community.  He believed that the people should own the land communally rather than it being sold off as individual plots. 
