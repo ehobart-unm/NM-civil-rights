@@ -16,7 +16,7 @@ The `summary` and `thumbnail` fields in the front matter at the top of this file
 
 ---
 
-## Research Interests
+## Key People
 
 Write two or three paragraphs describing your research questions, methods, and fields. You don't need to cover everything — aim for something a curious non-specialist can follow. What problem are you working on? Why does it matter? What approaches do you bring to it?
 

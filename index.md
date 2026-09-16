@@ -1,7 +1,7 @@
 ---
-title: Your Name
+title: New Mexico Civil Rights
 layout: base
-date: 2024-12-02
+date: 2026-09-16
 ---
 
 # NM Civil Rights
