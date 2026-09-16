@@ -1,5 +1,5 @@
 ---
-title: New Mexico Civil Rights
+title: Derechos civiles en Nuevo México
 layout: base
 date: 2026-09-16
 ---
