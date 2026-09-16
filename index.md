@@ -4,7 +4,7 @@ layout: base
 date: 2024-12-02
 ---
 
-{% include layout/profile-intro.html %}
+# NM Civil Rights
 
 This is your homepage — the first thing visitors see. Write two or three sentences that introduce who you are and what you do. Think of it as a brief professional statement: your field, your focus, and what makes your work distinctive. Keep it short; the cards below link to your other pages where you can go into depth.
 
