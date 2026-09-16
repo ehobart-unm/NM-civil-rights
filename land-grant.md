@@ -4,11 +4,13 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 1
-summary: Replace this with a one- or two-sentence summary of your research. This text appears on the homepage card and in search results.
+summary: The Land Grant movement in New Mexico is best exemplified by Reies Lopez Tijerina, who championed restoration of the original Spanish/Mexican land grants to the community.  He believed that the people should own the land communally rather than it being sold off as individual plots.
 thumbnail: assets/images/Photo of Bella - 2.jpg
 ---
 
-The Land Grant movement in New Mexico is best exemplified by Reies Lopez Tijerina, who championed restoration of the original Spanish/Mexican land grants to the community.  He believed [find some quote here]
+The Land Grant movement in New Mexico is best exemplified by Reies Lopez Tijerina, who championed restoration of the original Spanish/Mexican land grants to the community.  He believed that the people should own the land communally rather than it being sold off as individual plots. 
+
+Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which was centered around communal land grants.
 
 The `summary` and `thumbnail` fields in the front matter at the top of this file (between the `---` lines) control the card on your homepage. Update both when you update the page.
 
