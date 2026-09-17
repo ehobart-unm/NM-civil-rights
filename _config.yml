@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------
 # REQUIRED: Update these fields before publishing your site
 # ----------------------------------------------------------------------------
-title: Your Name              # appears in browser tab and header
-author: Your Name             # your name (used in meta tags)
+title: Derechos civiles en Nuevo México              # appears in browser tab and header
+author: Eric Hobart             # your name (used in meta tags)
 description: A short description of your portfolio site.
 baseurl: "/NM-civil-rights"  # your repository name, with a leading slash.
                                 # Leave empty if the repo is USERNAME.github.io.
