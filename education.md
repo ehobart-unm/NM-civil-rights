@@ -1,16 +1,14 @@
 ---
 title: Educator Rights
 layout: base
-date: 2025-09-30
+date: 2026-09-29
 homepage: TRUE
 position: 2
-summary: Replace this with a sentence or two about your teaching — your approach, the courses you teach, or what you most want students to take away. This appears on the homepage card.
+summary: This page is devoted to the Civil Rights story in Education - how did educators fight for Civil Rights?
 thumbnail: assets/images/great-lecture.jpg
 ---
 
-This is your Teaching page. Replace everything below this line with your own content.
-
-Teaching pages work well for a teaching philosophy statement, a list of courses you've taught, sample syllabi or assignments, and anything that shows how you work in the classroom. Add an image with `figure` or `figure-wrap` to make the page more visual — it's good practice for learning the components, and it makes the page more interesting to read.
+Educators who made a difference
 
 ---
 
