@@ -5,7 +5,7 @@ date: 2026-09-29
 homepage: TRUE
 position: 2
 summary: This page is devoted to the Civil Rights story in Education - how did educators fight for Civil Rights?
-thumbnail: assets/images/great-lecture.jpg
+thumbnail: assets/images/service-pnp-ggbain-36100-36127vOtero-Warren.jpg
 ---
 
 Educators who made a difference
