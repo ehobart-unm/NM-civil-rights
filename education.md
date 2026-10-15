@@ -30,14 +30,11 @@ Nina Otero-Warren was the superintendent of Santa Fe Schools from 1915-1927.  Du
 
 ## Adelita (Nina) Otero-Warren
 
-### The sisters from Vaughn
+## The sisters from Vaughn
 
 Tell the story here about the two teachers that were using the Chicanx history book and got fired.  Explain the value of using that book.
 
-### Find a third person/institution that benefits overall educational rights
+## Find a third person/institution that benefits overall educational rights
 
 ---
 
-## Student Projects
-
-If your courses produce public-facing work — websites, video essays, research projects, archives — link to them here. This is one of the best ways to show what happens in your classroom.
