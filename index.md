@@ -13,7 +13,7 @@ How is the term Civil Rights defined?  Through the stories presented on this web
 
 
 
-To add a new card, create a new page and add those fields. To remove a card, delete `homepage: TRUE` from that page's front matter. To reorder cards, adjust the `position` values.
+<!--To add a new card, create a new page and add those fields. To remove a card, delete `homepage: TRUE` from that page's front matter. To reorder cards, adjust the `position` values.-->
 
 {% assign essays = site.pages | where: "homepage", true %}
 {% include cards/card-stack.html cards = essays %}
