@@ -5,25 +5,25 @@ date: 2026-09-29
 homepage: TRUE
 position: 2
 summary: This page is devoted to the Civil Rights story in Education - how did educators fight for Civil Rights?
-thumbnail: assets/images/service-pnp-ggbain-36100-36127vOtero-Warren.jpg
+thumbnail: /assets/images/service-pnp-ggbain-36100-36127vOtero-Warren.jpg
 ---
 
 Educators who made a difference
 
 ---
 
-## Teaching Philosophy
+## New Mexico Educators
 
-Write a paragraph or two about how you approach teaching. What do you believe about how students learn? What are you trying to accomplish in the classroom? You don't need a formal teaching statement here — a direct, honest account of your approach is more compelling than polished boilerplate.
+Education is a core tenant of our civil rights in New Mexico.  Without these pioneers, our education system would be lacking.
 
 {% include images/figure.html
   class="right"
   width="45%"
-  caption="Add an image that represents your teaching — a classroom, a field site, a project students built."
-  image-path="/assets/images/great-lecture.jpg"
+  caption="Adelita (Nina) Otero-Warrren"
+  image-path="/assets/images/service-pnp-ggbain-36100-36127vOtero-Warren.jpg"
 %}
 
-A second paragraph here works well. You can use this space to describe your methods, discuss a particular challenge you've worked through as a teacher, or explain what kinds of learning you prioritize.
+Nina Otero-Warren was the superintendent of Santa Fe Schools from 1915-1927.  During this time, she fought for bilingual education.
 
 ---
 
