@@ -8,7 +8,7 @@ date: 2026-09-16
 
 How is the term Civil Rights defined?  Through the stories presented on this website, several key New Mexican Chicanx figures will be presented, along with their tales and how they worked for equality and justice for all Chicanx people.
 ---
---Your name, photo, bio, and links come from `_data/nav-profile.yml`, not from this file. Edit them there and this block updates.
+<!--Your name, photo, bio, and links come from `_data/nav-profile.yml`, not from this file. Edit them there and this block updates.-->
 
 
 
