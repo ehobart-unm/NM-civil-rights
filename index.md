@@ -11,6 +11,6 @@ How is the term Civil Rights defined?  Through the stories presented on this web
 <!--Your name, photo, bio, and links come from `_data/nav-profile.yml`, not from this file. Edit them there and this block updates.-->
 <!--To add a new card, create a new page and add those fields. To remove a card, delete `homepage: TRUE` from that page's front matter. To reorder cards, adjust the `position` values.-->
 
-{% assign essays = site.pages | where: "homepage", true %}
-{% include cards/card-stack.html cards = essays %}
+<!--{% assign essays = site.pages | where: "homepage", true %}-->
+<!--{% include cards/card-stack.html cards = essays %}-->
 ---
