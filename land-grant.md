@@ -33,9 +33,9 @@ Write two or three paragraphs describing your research questions, methods, and f
 
 ## Timeline
 
-1963:  The Alianza Federal de Mercedes was founded by Reies Lopez Tijerina
-1967:  June 5 - The Tierra Amarilla Courthouse Raid
-1968:  Tijerina runs for Governor of New Mexico - his platform is primarily based on the land grant movement
+### 1963:  The Alianza Federal de Mercedes was founded by Reies Lopez Tijerina
+### 1967:  June 5 - The Tierra Amarilla Courthouse Raid
+### 1968:  Tijerina runs for Governor of New Mexico - his platform is primarily based on the land grant movement
 
 ### Project Name
 
