@@ -21,7 +21,14 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
   image-path="/assets/images/Reies_Tijerina_1968_Edit.jpg"
 %}
 
-<!--The `summary` and `thumbnail` fields in the front matter at the top of this file (between the `---` lines) control the card on your homepage. Update both when you update the page.-->T
+{% include images/figure.html
+  class="right"
+  width="45%"
+  caption="Testing"
+  image-path="/assets/images/test.jpg"
+%}
+
+<!--The `summary` and `thumbnail` fields in the front matter at the top of this file (between the `---` lines) control the card on your homepage. Update both when you update the page.-->
 
 ---
 
