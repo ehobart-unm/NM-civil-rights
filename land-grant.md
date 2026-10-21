@@ -14,6 +14,11 @@ The Land Grant movement in New Mexico is best exemplified by Reies Lopez Tijerin
 
 Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which was centered around communal land grants.
 
+<p float="left">
+  <image-path = "/assets/images/Reies_Tijerina_1968_Edit.jpg width="49%" />
+  <image-path="/assets/images/DSC02455.jpg" width="49%" />
+</p>
+
 {% include images/figure.html
   class="right"
   width="45%"
