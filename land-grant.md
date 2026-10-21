@@ -37,13 +37,11 @@ Write two or three paragraphs describing your research questions, methods, and f
 ### 1967:  June 5 - The Tierra Amarilla Courthouse Raid
 ### 1968:  Tijerina runs for Governor of New Mexico - his platform is primarily based on the land grant movement
 
-### Project Name
+## How does the Land Grant Movement fit in the Civil Rights Picture?
 
-A short description of what you're working on right now. Include a link if the project has a public presence. If you have an image — a map, a dataset visualization, a photo from fieldwork — add it here using the `figure` or `figure-wrap` component.
+Describe the Alianza and their work.  Need to be more specific than this, though...
 
-### Project Name
 
-Another current project. Or delete this section if you have just one.
 
 ---
 
