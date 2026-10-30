@@ -4,24 +4,23 @@
    HISTORICAL HORIZONTAL TIMELINE
    ========================================== */
 
+
 .historical-timeline {
   display: flex;
   flex-wrap: nowrap;
   position: relative;
 
-  /* Center timeline across the page */
+  /* Break out of the centered content column */
   width: calc(100vw - 60px);
   max-width: 1600px;
-  margin-left: calc(50% - 50vw + 30px);
-  margin-right: 0;
+  left: 50%;
+  transform: translateX(-50%);
 
   overflow-x: auto;
   padding: 10px 25px 30px;
-  margin-top: 10px;
-  margin-bottom: 30px;
+  margin: 10px 0;
   scroll-behavior: smooth;
 }
-
 
 .timeline-event {
   flex: 1 0 260px;
