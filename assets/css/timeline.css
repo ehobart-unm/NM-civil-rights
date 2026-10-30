@@ -14,7 +14,7 @@
 }
 
 .timeline-event {
-  flex: 0 0 260px;
+  flex: 1 0 260px;
   min-width: 0;
   position: relative;
   padding-right: 20px;
