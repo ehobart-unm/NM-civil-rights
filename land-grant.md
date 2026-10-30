@@ -56,43 +56,23 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
     <time class="timeline-date" datetime="1966-10-15">
       October 15, 1966
     </time>
-<div class="timeline-connector">
-    <span class="timeline-marker"></span>
-  </div>
-
-  <div class="timeline-content">
-    <h3>Alianza Occupies Echo Park Amphitheater</h3>
-
-    <p>
-      The Alianza renames the site the Republic of San Joaquin del Rio Chama.
-    </p>
-
-<article class="timeline-event">
-  <time class="timeline-date" datetime="1966-10-15">
-    October 15, 1966
-  </time>
-
-  <div class="timeline-connector">
-    <span class="timeline-marker"></span>
-  </div>
-
-  <div class="timeline-content">
-    <h3>Alianza Occupies Echo Park Amphitheater</h3>
-
-    <p>
-      The Alianza renames the site the Republic of San Joaquin del Rio Chama.
-    </p>
-
-    <img
-      src="{{ '/assets/images/echo_amphitheater.jpg' | relative_url }}"
-      alt="Photo from the Echo Amphitheater occupation. Courtesy of The Center for Southwest Research, use permission granted by Peter Nabokov"
-      class="timeline-image">
-
-    <p class="timeline-image-caption">
-      Photograph caption and archival source.
-    </p>
-  </div>
-</article>
+    <div class="timeline-connector">
+      <span class="timeline-marker"></span>
+    </div>
+    <div class="timeline-content">
+      <h3>Alianza Occupies Echo Park Amphitheater</h3>
+      <p>
+        The Alianza renames the site the Republic of San Joaquin del Rio Chama.
+      </p>
+      <img
+        src="{{ '/assets/images/echo_amphitheater.jpg' | relative_url }}"
+        alt="Photo from the Echo Amphitheater occupation. Courtesy of The Center for Southwest Research, use permission granted by Peter Nabokov"
+        class="timeline-image">
+      <p class="timeline-image-caption">
+        Photograph caption and archival source.
+      </p>
+    </div>
+  </article>
 
   <article class="timeline-event">
     <time class="timeline-date" datetime="1967-06-05">
@@ -120,19 +100,19 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
       <p>
         Tijerina runs for governor of New Mexico on a
         platform primarily centered on the land grant movement.
-     <img
-      src="{{ '/assets/images/RLT_Governor.jpg' | relative_url }}"
-      alt="Campaign poster from 1968 Governor's race.  Courtesy of the Center for Southwest Research"
-      class="timeline-image">
-
-    <p class="timeline-image-caption">
-      Photograph caption and archival source.
-      
+      </p>
+      <img
+        src="{{ '/assets/images/RLT_Governor.jpg' | relative_url }}"
+        alt="Campaign poster from 1968 Governor's race. Courtesy of the Center for Southwest Research"
+        class="timeline-image">
+      <p class="timeline-image-caption">
+        Photograph caption and archival source.
       </p>
     </div>
   </article>
 
 </div>
+
 
 ## How does the Land Grant Movement fit in the Civil Rights Picture?
 
