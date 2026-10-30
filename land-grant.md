@@ -49,6 +49,13 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
     <div class="timeline-content">
       <h3>Alianza Federal de Mercedes Established</h3>
       <p>Founded by Reies López Tijerina.</p>
+  <img
+        src="{{ '/assets/images/Alianza.jpg' | relative_url }}"
+        alt="Photograph of Alianza headquarters building. Courtesy of the Center for Southwest Research, University Libraries, University of New Mexico; used with permission of Peter Nabokov."
+        class="timeline-image">
+      <p class="timeline-image-caption">
+        Photograph of the Alianza headquarters building. Courtesy of the Center for Southwest Research, University Libraries, University of New Mexico; used with permission of Peter Nabokov.
+      </p>
     </div>
   </article>
 
