@@ -94,6 +94,13 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
         The Tierra Amarilla Courthouse Raid takes place
         in northern New Mexico.
       </p>
+      <img
+        src="{{ '/assets/images/Alianza.jpg' | relative_url }}"
+        alt="Photograph of the Tierra Amarilla courthouse.  Image from the Santa Fe New Mexican, June 2, 2017.  Accessed online."
+        class="timeline-image">
+      <p class="timeline-image-caption">
+        Photograph of the Tierra Amarilla courthouse.  Image from the Santa Fe New Mexican, June 2, 2017.  Accessed online.
+      </p>
     </div>
   </article>
 
