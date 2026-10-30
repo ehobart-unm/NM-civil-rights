@@ -48,44 +48,50 @@ Write two or three paragraphs describing your research questions, methods, and f
 
 <div class="historical-timeline">
 
-  <div class="timeline-event">
-    <div class="timeline-date">1963</div>
-    <div class="timeline-marker"></div>
-    <div class="timeline-description">
-      <h3>Reies Lopez Tijerina founds the Alianza de Mercedes</h3>
-      <p>The Reagan administration begins its War on Drugs.</p>
+  <article class="timeline-event">
+    <time class="timeline-date" datetime="1963">1963</time>
+    <div class="timeline-connector">
+      <span class="timeline-marker"></span>
     </div>
-  </div>
+    <div class="timeline-content">
+      <h3>Alianza Federal de Mercedes Founded</h3>
+      <p>
+        Reies López Tijerina establishes the Alianza Federal de Mercedes,
+        organizing around the recovery of ancestral land grants.
+      </p>
+    </div>
+  </article>
 
-  <div class="timeline-event">
-    <div class="timeline-date">1982</div>
-    <div class="timeline-marker"></div>
-    <div class="timeline-description">
-      <h3>Military Assistance</h3>
-      <p>Congress expands military support for domestic drug enforcement.</p>
+  <article class="timeline-event">
+    <time class="timeline-date" datetime="1967-06-05">
+      June 5, 1967
+    </time>
+    <div class="timeline-connector">
+      <span class="timeline-marker"></span>
     </div>
-  </div>
+    <div class="timeline-content">
+      <h3>Tierra Amarilla Courthouse Raid</h3>
+      <p>
+        The Tierra Amarilla Courthouse Raid takes place in northern New Mexico.
+      </p>
+    </div>
+  </article>
 
-  <div class="timeline-event">
-    <div class="timeline-date">1986</div>
-    <div class="timeline-marker"></div>
-    <div class="timeline-description">
-      <h3>Operation Blast Furnace</h3>
-      <p>U.S. military personnel assist Bolivian counternarcotics operations.</p>
+  <article class="timeline-event">
+    <time class="timeline-date" datetime="1968">1968</time>
+    <div class="timeline-connector">
+      <span class="timeline-marker"></span>
     </div>
-  </div>
-
-  <div class="timeline-event">
-    <div class="timeline-date">1988</div>
-    <div class="timeline-marker"></div>
-    <div class="timeline-description">
-      <h3>Bolivia Passes Law 1008</h3>
-      <p>Bolivia establishes a new legal framework for coca and cocaine control.</p>
+    <div class="timeline-content">
+      <h3>Gubernatorial Campaign</h3>
+      <p>
+        Tijerina runs for governor of New Mexico. His political platform
+        centers primarily on the land grant movement.
+      </p>
     </div>
-  </div>
+  </article>
 
 </div>
-
 
 ### 1963:  The Alianza Federal de Mercedes was founded by Reies Lopez Tijerina
 ### 1967:  June 5 - The Tierra Amarilla Courthouse Raid
