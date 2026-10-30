@@ -65,6 +65,13 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
         The Alianza renames the site the Republic of
         San Joaquin del Rio Chama.
       </p>
+     <img
+      src="{{ '/assets/images/echo_amphitheater.jpg' | relative_url }}"
+      alt="Photo from the Echo Amphitheater occupation. Courtesy of The Center for Southwest Research, use permission granted by Peter Nabokov"
+      class="timeline-image">
+
+    <p class="timeline-image-caption">
+      Photograph caption and archival source.
     </div>
   </article>
 
@@ -95,6 +102,13 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
         Tijerina runs for governor of New Mexico on a
         platform primarily centered on the land grant movement.
       </p>
+     <img
+      src="{{ '/assets/images/RLT_Governor.jpg' | relative_url }}"
+      alt="Campaign poster from 1968 Governor's race.  Courtesy of the Center for Southwest Research"
+      class="timeline-image">
+
+    <p class="timeline-image-caption">
+      Photograph caption and archival source.
     </div>
   </article>
 
