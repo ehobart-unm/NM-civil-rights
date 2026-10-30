@@ -19,7 +19,7 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
     {% include images/figure.html
       image-width="100%"
       caption="Reies Tijerina"
-      image-path="/assets/images/Reies_Tijerina_1968_Edit.jpg"
+      image-path="/assets/images/Tijerina-1967.jpg"
     %}
   </div>
 
@@ -27,7 +27,7 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
     {% include images/figure.html
       image-width="100%"
       caption="Testing"
-      image-path="/assets/images/DSC02455.jpg"
+      image-path="/assets/images/RLT-1967.jpg"
     %}
   </div>
 
