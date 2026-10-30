@@ -18,7 +18,7 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
   <div style="width: 50%;">
     {% include images/figure.html
       image-width="100%"
-      caption="Reies Tijerina"
+      caption="A Pro-Tijerina sign"
       image-path="/assets/images/Tijerina-1967.jpg"
     %}
   </div>
@@ -26,7 +26,7 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
   <div style="width: 50%;">
     {% include images/figure.html
       image-width="100%"
-      caption="Testing"
+      caption="Reies Tijerina being arrested"
       image-path="/assets/images/RLT-1967.jpg"
     %}
   </div>
