@@ -177,5 +177,30 @@ Uses Splide.js — see _includes/images/carousel.html
   line-height: 1.5;
   color: var(--text-muted);
 }
+          /* Equal-sized archival image displays */
+
+.equal-image-row {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.equal-image-row figure {
+  flex: 1;
+  min-width: 0;
+}
+
+.equal-image-row figure img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+}
+
+@media (max-width: 768px) {
+  .equal-image-row {
+    flex-direction: column;
+  }
+}
 
 } /* end media screen */
