@@ -30,7 +30,7 @@
 .timeline-connector {
   height: 3px;
   width: calc(100% + 20px);
-  background: #477B9E;
+  background: var(--sage);
   position: relative;
   margin-bottom: 20px;
 }
@@ -42,7 +42,7 @@
   width: 13px;
   height: 13px;
   border-radius: 50%;
-  background: #477B9E;
+  background: var(--sage);
   border: 2px solid white;
   box-sizing: content-box;
 }
