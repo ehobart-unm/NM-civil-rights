@@ -38,40 +38,39 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
 
 ## Historical Timeline
 
-<div class="historical-timeline">
+## Historical Timeline
 
-  <!-- Insert the three timeline-event sections here -->
-
-</div>
 <div class="historical-timeline">
 
   <article class="timeline-event">
-    <time class="timeline-date" datetime="1962-02-02">February 2, 1962</time>
+    <time class="timeline-date" datetime="1962-02-02">
+      February 2, 1962
+    </time>
     <div class="timeline-connector">
       <span class="timeline-marker"></span>
     </div>
     <div class="timeline-content">
       <h3>Alianza Federal de Mercedes Established</h3>
-      <p>
-        Founded by Reies López Tijerina.
-      </p>
+      <p>Founded by Reies López Tijerina.</p>
     </div>
   </article>
 
   <article class="timeline-event">
-    <time class="timeline-date" datetime="10-15-1966">October 15, 1966</time>
+    <time class="timeline-date" datetime="1966-10-15">
+      October 15, 1966
+    </time>
     <div class="timeline-connector">
       <span class="timeline-marker"></span>
     </div>
     <div class="timeline-content">
-      <h3>Alianza occupies Echo Park Amphitheater and renames it the Republic of San Joaquin del Rio Chama</h3>
+      <h3>Alianza Occupies Echo Park Amphitheater</h3>
       <p>
-        Tijerina runs for governor of New Mexico on a platform
-        primarily centered on the land grant movement.
+        The Alianza renames the site the Republic of
+        San Joaquin del Rio Chama.
       </p>
     </div>
   </article>
-  
+
   <article class="timeline-event">
     <time class="timeline-date" datetime="1967-06-05">
       June 5, 1967
@@ -82,7 +81,8 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
     <div class="timeline-content">
       <h3>Tierra Amarilla Courthouse Raid</h3>
       <p>
-        The Tierra Amarilla Courthouse Raid takes place in northern New Mexico.
+        The Tierra Amarilla Courthouse Raid takes place
+        in northern New Mexico.
       </p>
     </div>
   </article>
@@ -95,8 +95,8 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
     <div class="timeline-content">
       <h3>Tijerina Runs for Governor</h3>
       <p>
-        Tijerina runs for governor of New Mexico on a platform
-        primarily centered on the land grant movement.
+        Tijerina runs for governor of New Mexico on a
+        platform primarily centered on the land grant movement.
       </p>
     </div>
   </article>
