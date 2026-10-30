@@ -3,10 +3,17 @@
 /* ==========================================
    HISTORICAL HORIZONTAL TIMELINE
    ========================================== */
+
 .historical-timeline {
   display: flex;
-  grid-column: full;
-  width: 100%;
+  position: relative;
+
+  /* Break out of the centered content column */
+  width: calc(100vw - 60px);
+  max-width: 1600px;
+  left: 50%;
+  transform: translateX(-50%);
+
   overflow-x: auto;
   padding: 10px 25px 30px;
   margin: 10px 0;
@@ -15,11 +22,12 @@
 
 .timeline-event {
   flex: 1 0 260px;
-  min-width: 0;
+  min-width: 220px;
   position: relative;
   padding-right: 20px;
   box-sizing: border-box;
 }
+
 
 .timeline-date {
   display: block;
