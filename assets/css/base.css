@@ -513,7 +513,11 @@ ACCESSIBILITY UTILITIES
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
-/* Historical Horizontal Timeline */
+}
+
+/* ==========================================
+   HISTORICAL HORIZONTAL TIMELINE
+   ========================================== */
 
 .historical-timeline {
   display: flex;
@@ -527,8 +531,8 @@ ACCESSIBILITY UTILITIES
   flex: 0 0 260px;
   min-width: 0;
   position: relative;
-  box-sizing: border-box;
   padding-right: 20px;
+  box-sizing: border-box;
 }
 
 .timeline-date {
@@ -540,7 +544,7 @@ ACCESSIBILITY UTILITIES
 
 .timeline-connector {
   height: 3px;
-  width: 100%;
+  width: calc(100% + 20px);
   background: #477B9E;
   position: relative;
   margin-bottom: 20px;
@@ -555,6 +559,7 @@ ACCESSIBILITY UTILITIES
   border-radius: 50%;
   background: #477B9E;
   border: 2px solid white;
+  box-sizing: content-box;
 }
 
 .timeline-content h3 {
@@ -574,5 +579,4 @@ ACCESSIBILITY UTILITIES
 .historical-timeline::-webkit-scrollbar-thumb {
   background: #999;
   border-radius: 5px;
-}
 }
