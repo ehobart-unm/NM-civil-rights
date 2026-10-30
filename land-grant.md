@@ -13,20 +13,19 @@ The Land Grant Movement was led by The Alianza Federal de Mercedes
 The Land Grant movement in New Mexico is best exemplified by Reies Lopez Tijerina, who championed restoration of the original Spanish/Mexican land grants to the community.  He believed that the people should own the land communally rather than it being sold off as individual plots. 
 
 Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which was centered around communal land grants.
-<div style="display: flex; gap: 20px; align-items: flex-start;">
 
-<div class="equal-image-row">
+ <div class="equal-image-row">
 
   {% include images/figure.html
     image-width="100%"
     caption="A Pro-Tijerina sign"
-    image-path="/assets/images/Reies_Tijerina_1968_Edit.jpg"
+    image-path="/assets/images/Tijerina-1967.jpg"
   %}
 
   {% include images/figure.html
     image-width="100%"
     caption="Reies Tijerina being arrested"
-    image-path="/assets/images/DSC02455.jpg"
+    image-path="/assets/images/RLT-1967.jpg"
   %}
 
 </div>
