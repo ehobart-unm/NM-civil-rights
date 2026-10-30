@@ -46,6 +46,47 @@ Write two or three paragraphs describing your research questions, methods, and f
 
 ## Timeline
 
+<div class="historical-timeline">
+
+  <div class="timeline-event">
+    <div class="timeline-date">1963</div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-description">
+      <h3>Reies Lopez Tijerina founds the Alianza de Mercedes</h3>
+      <p>The Reagan administration begins its War on Drugs.</p>
+    </div>
+  </div>
+
+  <div class="timeline-event">
+    <div class="timeline-date">1982</div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-description">
+      <h3>Military Assistance</h3>
+      <p>Congress expands military support for domestic drug enforcement.</p>
+    </div>
+  </div>
+
+  <div class="timeline-event">
+    <div class="timeline-date">1986</div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-description">
+      <h3>Operation Blast Furnace</h3>
+      <p>U.S. military personnel assist Bolivian counternarcotics operations.</p>
+    </div>
+  </div>
+
+  <div class="timeline-event">
+    <div class="timeline-date">1988</div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-description">
+      <h3>Bolivia Passes Law 1008</h3>
+      <p>Bolivia establishes a new legal framework for coca and cocaine control.</p>
+    </div>
+  </div>
+
+</div>
+
+
 ### 1963:  The Alianza Federal de Mercedes was founded by Reies Lopez Tijerina
 ### 1967:  June 5 - The Tierra Amarilla Courthouse Raid
 ### 1968:  Tijerina runs for Governor of New Mexico - his platform is primarily based on the land grant movement
