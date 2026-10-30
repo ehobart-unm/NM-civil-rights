@@ -66,10 +66,10 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
       </p>
       <img
         src="{{ '/assets/images/echo_amphitheater.jpg' | relative_url }}"
-        alt="Photo from the Echo Amphitheater occupation. Courtesy of The Center for Southwest Research, use permission granted by Peter Nabokov"
+        alt="Photograph of the Echo Park occupation. Courtesy of the Center for Southwest Research, University Libraries, University of New Mexico; used with permission of Peter Nabokov."
         class="timeline-image">
       <p class="timeline-image-caption">
-        Photograph caption and archival source.
+        Photograph of the Echo Park occupation. Courtesy of the Center for Southwest Research, University Libraries, University of New Mexico; used with permission of Peter Nabokov.
       </p>
     </div>
   </article>
@@ -106,7 +106,7 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
         alt="Campaign poster from 1968 Governor's race. Courtesy of the Center for Southwest Research"
         class="timeline-image">
       <p class="timeline-image-caption">
-        Photograph caption and archival source.
+        Campaign poster from 1968 Governor's race. Courtesy of the Center for Southwest Research, University Libraries, University of New Mexico.
       </p>
     </div>
   </article>
