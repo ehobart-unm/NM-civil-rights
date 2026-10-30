@@ -38,11 +38,6 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
 
 ---
 
-## Key Events
-
-Write two or three paragraphs describing your research questions, methods, and fields. You don't need to cover everything — aim for something a curious non-specialist can follow. What problem are you working on? Why does it matter? What approaches do you bring to it?
-
----
 
 ## Historical Timeline
 
@@ -54,18 +49,32 @@ Write two or three paragraphs describing your research questions, methods, and f
 <div class="historical-timeline">
 
   <article class="timeline-event">
-    <time class="timeline-date" datetime="1963">1963</time>
+    <time class="timeline-date" datetime="1962-02-02">February 2, 1962</time>
     <div class="timeline-connector">
       <span class="timeline-marker"></span>
     </div>
     <div class="timeline-content">
-      <h3>Alianza Federal de Mercedes Founded</h3>
+      <h3>Alianza Federal de Mercedes Established</h3>
       <p>
         Founded by Reies López Tijerina.
       </p>
     </div>
   </article>
 
+  <article class="timeline-event">
+    <time class="timeline-date" datetime="10-15-1966">October 15, 1966</time>
+    <div class="timeline-connector">
+      <span class="timeline-marker"></span>
+    </div>
+    <div class="timeline-content">
+      <h3>Alianza occupies Echo Park Amphitheater and renames it the Republic of San Joaquin del Rio Chama</h3>
+      <p>
+        Tijerina runs for governor of New Mexico on a platform
+        primarily centered on the land grant movement.
+      </p>
+    </div>
+  </article>
+  
   <article class="timeline-event">
     <time class="timeline-date" datetime="1967-06-05">
       June 5, 1967
