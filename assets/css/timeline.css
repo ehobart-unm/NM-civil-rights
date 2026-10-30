@@ -5,8 +5,8 @@
    ========================================== */
 
 .historical-timeline {
-  display: flex;
-  position: relative;
+   display: flex;
+   flex-wrap: nowrap;
 
   /* Break out of the centered content column */
   width: calc(100vw - 60px);
