@@ -35,9 +35,6 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
 
 ---
 
-
-## Historical Timeline
-
 ## Historical Timeline
 
 <div class="historical-timeline">
