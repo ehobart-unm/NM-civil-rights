@@ -45,7 +45,6 @@ Write two or three paragraphs describing your research questions, methods, and f
 ---
 
 ## Timeline
-
 <div class="historical-timeline">
 
   <article class="timeline-event">
@@ -56,8 +55,7 @@ Write two or three paragraphs describing your research questions, methods, and f
     <div class="timeline-content">
       <h3>Alianza Federal de Mercedes Founded</h3>
       <p>
-        Reies López Tijerina establishes the Alianza Federal de Mercedes,
-        organizing around the recovery of ancestral land grants.
+        Founded by Reies López Tijerina.
       </p>
     </div>
   </article>
@@ -83,14 +81,15 @@ Write two or three paragraphs describing your research questions, methods, and f
       <span class="timeline-marker"></span>
     </div>
     <div class="timeline-content">
-      <h3>Gubernatorial Campaign</h3>
+      <h3>Tijerina Runs for Governor</h3>
       <p>
-        Tijerina runs for governor of New Mexico. His political platform
-        centers primarily on the land grant movement.
+        Tijerina runs for governor of New Mexico on a platform
+        primarily centered on the land grant movement.
       </p>
     </div>
   </article>
 
+</div>
 </div>
 
 ### 1963:  The Alianza Federal de Mercedes was founded by Reies Lopez Tijerina
