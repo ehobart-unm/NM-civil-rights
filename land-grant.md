@@ -44,7 +44,13 @@ Write two or three paragraphs describing your research questions, methods, and f
 
 ---
 
-## Timeline
+## Historical Timeline
+
+<div class="historical-timeline">
+
+  <!-- Insert the three timeline-event sections here -->
+
+</div>
 <div class="historical-timeline">
 
   <article class="timeline-event">
