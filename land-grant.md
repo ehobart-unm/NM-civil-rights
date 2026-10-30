@@ -95,7 +95,7 @@ Tijerina's ideas were in-line with the Spanish/Mexican law of the land, which wa
         in northern New Mexico.
       </p>
       <img
-        src="{{ '/assets/images/Alianza.jpg' | relative_url }}"
+        src="{{ '/assets/images/Courthouse1967.jpg' | relative_url }}"
         alt="Photograph of the Tierra Amarilla courthouse.  Image from the Santa Fe New Mexican, June 2, 2017.  Accessed online."
         class="timeline-image">
       <p class="timeline-image-caption">
