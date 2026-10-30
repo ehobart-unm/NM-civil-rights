@@ -3,12 +3,12 @@
 /* ==========================================
    HISTORICAL HORIZONTAL TIMELINE
    ========================================== */
-
-
 .historical-timeline {
   display: flex;
+  grid-column: full;
+  width: 100%;
   overflow-x: auto;
-  padding: 10px 10px 30px;
+  padding: 10px 25px 30px;
   margin: 10px 0;
   scroll-behavior: smooth;
 }
