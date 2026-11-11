@@ -13,8 +13,8 @@ thumbnail-zoom: 1.3
 
 Why did they riot?
 
-> **WORK FASTER:** You can use an AI assistant to get your CV here in no time. Paste your existing CV into an AI assistant and ask it to reformat to Markdown following the format of your CV page---and give it the URL of your CV page. It handles the tedious formatting work in seconds.
 
+_Duran v. Apodaca_ (1977):  Inmate Dwight Duran filed a class-action civil rights lawsuit (Duran v. Apodaca) challenging the unconstitutional overcrowding, filth, lack of medical care, and brutality at the Penitentiary of New Mexico. The ACLU's National Prison Project joined the case in 1978
 
 ---
 
