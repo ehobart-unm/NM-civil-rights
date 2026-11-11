@@ -11,10 +11,10 @@ thumbnail-zoom: 1.3
 
 # Prisoner complaints
 
-Why did they riot?
+Events leading up to the riot
 
 
-_Duran v. Apodaca_ (1977):  Inmate Dwight Duran filed a class-action civil rights lawsuit (Duran v. Apodaca) challenging the unconstitutional overcrowding, filth, lack of medical care, and brutality at the Penitentiary of New Mexico. The ACLU's National Prison Project joined the case in 1978
+_Duran v. Apodaca_ (1977):  Dwight Duran, an inmate filed a class-action civil rights lawsuit (Duran v. Apodaca) challenging the unconstitutional overcrowding, filth, lack of medical care, and brutality at the Penitentiary of New Mexico. The ACLU's National Prison Project joined the case in 1978
 
 ---
 
