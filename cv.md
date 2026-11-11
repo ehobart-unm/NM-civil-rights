@@ -4,15 +4,14 @@ layout: base
 homepage: TRUE
 position: 4
 summary: New Mexico had a prison uprising in 1980 that helped solidify Civil Rights for prisoners across the state
-thumbnail: assets/images/Riot aftermath.jpg
+thumbnail: assets/images/Riot aftermath.jpeg
 thumbnail-position: top
 thumbnail-zoom: 1.3
 ---
 
-# Your Name
-Email: you@university.edu • [Your Website](http://yoursite.com) • [LinkedIn](http://linkedin.com/in/yourprofile)
+# Prisoner complaints
 
-Replace this paragraph with a brief professional statement if you want one at the top of your CV — or delete it and start directly with your headings below.
+Why did they riot?
 
 > **WORK FASTER:** You can use an AI assistant to get your CV here in no time. Paste your existing CV into an AI assistant and ask it to reformat to Markdown following the format of your CV page---and give it the URL of your CV page. It handles the tedious formatting work in seconds.
 
