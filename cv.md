@@ -1,10 +1,10 @@
 ---
-title: Curriculum Vitae
+title: Prisoner Rights
 layout: base
 homepage: TRUE
 position: 4
-summary: Replace this with a one- or two-sentence summary of your CV — what does it show about you? This text appears on the homepage card.
-thumbnail: assets/images/Augustine_Lateran.jpg
+summary: New Mexico had a prison uprising in 1980 that helped solidify Civil Rights for prisoners across the state
+thumbnail: assets/images/Riot aftermath.jpg
 thumbnail-position: top
 thumbnail-zoom: 1.3
 ---
