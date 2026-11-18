@@ -30,7 +30,7 @@ Nuclear Environmental Justice for New Mexicans
 
 <div class="story-box">
 
-  <h3>The Story of Nuclear Justice</h3>
+  <h3>Environmental Justice Needs in New Mexico</h3>
 
   <ul>
     <li>The first nuclear bomb explosion in the world.</li>
