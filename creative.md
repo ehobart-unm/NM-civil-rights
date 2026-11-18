@@ -19,8 +19,8 @@ Environmental justice is a significant concern for New Mexicans - there have bee
 {% include images/figure.html
   class="left"
   width="45%"
-  caption="Add an image that represents this work. Delete this component if you don't need it."
-  image-path="/assets/images/ai-created-kinetic-sculpture.png"
+  caption="The Trinity site .016 seconds after detonation.  Picture courtsey of IEEE: https://spectrum.ieee.org/trinity-nuclear-test"
+  image-path="/assets/images/mushroom.jpg"
 %}
 
 Write a paragraph or two introducing what this page is about. This is a good page to experiment with Xanthan's image components — `figure` (standalone, left/right/center) and `figure-wrap` (text wraps around the image) both work well for portfolio-style pages with lots of visual content.
