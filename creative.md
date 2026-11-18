@@ -23,9 +23,48 @@ Environmental justice is a significant concern for New Mexicans - there have bee
   image-path="/assets/images/mushroom.jpg"
 %}
 
-Write a paragraph or two introducing what this page is about. This is a good page to experiment with Xanthan's image components — `figure` (standalone, left/right/center) and `figure-wrap` (text wraps around the image) both work well for portfolio-style pages with lots of visual content.
 
-Replace this text with your own. And if this page doesn't fit your portfolio at all, you can delete this file and remove its entry from `_data/nav-top.yml`.
+## Historical Timeline
+
+<div class="historical-timeline">
+
+  <article class="timeline-event">
+    <time class="timeline-date" datetime="July 16, 1945">
+      1960
+    </time>
+    <div class="timeline-connector">
+      <span class="timeline-marker"></span>
+    </div>
+    <div class="timeline-content">
+      <h3>First Historical Event</h3>
+      <p>The world enters the nuclear age.</p>
+
+      <img
+        src="{{ '/assets/images/trinity2.jpg' | relative_url }}"
+        alt="The explosion at White Sands Missile Range"
+        class="timeline-image">
+
+      <p class="timeline-image-caption">
+        Photo courtesy of the WWII museum: https://www.nationalww2museum.org/war/articles/trinity-why-it-really-mattered.
+      </p>
+    </div>
+  </article>
+
+  <article class="timeline-event">
+    <time class="timeline-date" datetime="1965">
+      1965
+    </time>
+    <div class="timeline-connector">
+      <span class="timeline-marker"></span>
+    </div>
+    <div class="timeline-content">
+      <h3>Second Historical Event</h3>
+      <p>Description of the event goes here.</p>
+    </div>
+  </article>
+
+</div>
+
 
 ---
 
