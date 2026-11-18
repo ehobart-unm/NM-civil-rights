@@ -8,7 +8,7 @@ summary: New Mexico residents have been subjected to many forms of environmental
 thumbnail: assets/images/trinity.jpg
 ---
 
-Environmental justice is a significant concern for New Mexicans - there have been atomic bomb tests that are still, more than eighty years later, directly impacting people.  There is also a storage site for nuclear waste in New Mexico. 
+
 
 
 
@@ -25,6 +25,8 @@ Environmental justice is a significant concern for New Mexicans - there have bee
 
 
 ## Historical Timeline
+
+Environmental justice is a significant concern for New Mexicans - there have been atomic bomb tests that are still, more than eighty years later, directly impacting people.  There is also a storage site for nuclear waste in New Mexico. 
 
 <div class="historical-timeline">
 
@@ -70,8 +72,12 @@ Environmental justice is a significant concern for New Mexicans - there have bee
 
 ## Major New Mexico Nuclear Events
 
-### Item Title
-Description of this piece, project, or publication. Add an image, a link, a date — whatever context helps a reader understand it.
+<div class="story-box">
 
-### Item Title
-Description. Keep the format consistent across entries.
+<h3>The Story of nuclear justice for Nuevomexicanos...</h3>
+
+<p>
+When the United States government decided to test the atomic bomb, which was the product of the Manhattan Project, they chose to test it in a sparsely populated section of central New Mexico.  Unfortunately, they did not inform any of the residents of the impending test or ways to protect themselves.  Consequently, the people in the area were still at home when the bomb exploded the morning of July 16, 1945.
+</p>
+
+</div>
