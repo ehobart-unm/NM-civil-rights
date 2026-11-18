@@ -3,7 +3,7 @@ title: Prisoner Rights
 layout: base
 homepage: TRUE
 position: 4
-summary: New Mexico had a prison uprising in 1980 that helped solidify Civil Rights for prisoners across the state
+summary: New Mexico prisons housed many Chicanx people in the 1970s and 80s.  Dwight Duran made a huge difference for all subsequent inmates.
 thumbnail: assets/images/Riot aftermath.jpeg
 thumbnail-position: top
 thumbnail-zoom: 1.3
@@ -18,46 +18,21 @@ _Duran v. Apodaca_ (1977):  Dwight Duran, an inmate filed a class-action civil r
 
 ---
 
-## Education
-
-### Degree, Field
-*Institution*, Year–Year  
-- Dissertation or thesis title (if relevant)  
-- Advisor: Name  
-
-### Degree, Field
-*Institution*, Year–Year  
+## The "Old Main" prison
 
 ---
 
-## Areas of Interest
-- Add your research interests here  
-- One per line works well  
+## Dwight Duran's complaints
+
+
 
 ---
 
-## Professional Experience
+## Consent Decree
 
-### Position Title
-*Organization, Location*, Year–Year  
-- What you did  
-- What you built, managed, or contributed  
 
-### Position Title
-*Organization, Location*, Year–Year  
-- What you did  
+## Afterwards
 
----
-
-## Conferences & Presentations
-- *"Presentation Title"* — Conference Name, Location (Year).  
-- *"Presentation Title"* — Conference Name, Location (Year).  
-
----
-
-## Publications
-- Last, First. *"Article Title."* *Journal Name* Vol, no. Issue (Year): pages.  
-- Last, First. *"Chapter Title."* In *Book Title*, ed. Editor Name, Press, Year.  
 
 ---
 
