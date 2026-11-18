@@ -5,16 +5,16 @@ date: 2025-09-30
 homepage: TRUE
 position: 3
 summary: New Mexico residents have been subjected to many forms of environmental injustice 
-thumbnail: assets/images/site/trinity.jpeg
+thumbnail: assets/images/trinity.jpeg
 ---
 
 Environmental justice is a significant concern for New Mexicans - there have been atomic bomb tests that are still, more than eighty years later, directly impacting people.  There is also a storage site for nuclear waste in New Mexico. 
 
-To rename this page, change the `title` field in the front matter above and update the corresponding entry in `_data/nav-top.yml`.
+
 
 ---
 
-## Your Section Title
+## Nuclear Armageddon?
 
 {% include images/figure.html
   class="left"
