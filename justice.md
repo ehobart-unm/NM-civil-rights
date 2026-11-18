@@ -1,6 +1,7 @@
 ---
 title: Environmental Justice
 layout: base
+permalink: /justice/
 date: 2025-09-30
 homepage: TRUE
 position: 3
