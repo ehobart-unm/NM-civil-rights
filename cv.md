@@ -30,6 +30,26 @@ _Duran v. Apodaca_ (1977):  Dwight Duran, an inmate filed a class-action civil r
 
 ## Consent Decree
 
+A partial consent decree was signed in 1979 - explain the details here
+
+<div class="story-box">
+
+<h3>The Story of Nuclear Justice</h3>
+
+<p>
+The partial consent decree was filed on April 18,1979.  Both Duran and the state of New Mexico agreed on immediate improvements:
+  <ul>
+    <li>Inmates were no longer required to sign a waiver of their right to their right to object to the opening of their mail or to take action to ensure DOC compliance with constitutional standards for correspondence.</li>
+  </ul>
+</p>
+
+</div>
+
+    </div>
+  </article>
+
+
+---
 
 ## Afterwards
 
