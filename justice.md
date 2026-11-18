@@ -33,8 +33,9 @@ Nuclear Environmental Justice for New Mexicans
   <h3>Environmental Justice Needs in New Mexico</h3>
 
   <ul>
-    <li>The first nuclear bomb explosion in the world.</li>
-    <li>Clean Water and Air in New Mexico.</li>
+    <li>Radioactive fallout from the first nuclear bomb explosion in the world.</li>
+    <li>Clean Water in New Mexico.</li>
+    <li>Clean Air in New Mexico.</li>
     <li>Nuclear Waste Storage Site in New Mexico.</li>
   </ul>
 
