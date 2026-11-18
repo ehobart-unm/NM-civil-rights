@@ -6,11 +6,18 @@ date: 2026-09-16
 
 # New Mexican Civil Rights in the 20th century
 
-During the twentieth century, the following events only happened in New Mexico:
+<div class="story-box">
+
+  <h3>During the twentieth century, the following events only happened in New Mexico:</h3>
+
+  <ul>
 <LI>In 1912, New Mexico became the 47th state in the union</LI>
 <LI>In 1945, The first nuclear weapon in the world was tested</LI>
 <LI>In 1980, The Duran decree was signed (come up with something more exciting for this)</LI>
+  </ul>
 
+</div>
+<div class="story-box">
 This website was designed to provide the viewer with a look into some of the more seminal Civil Rights issues that impacted Chicanx (and in some cases all) residents of New Mexico.
 
 The site is broken into four components:
