@@ -40,8 +40,8 @@ Environmental justice is a significant concern for New Mexicans - there have bee
       <span class="timeline-marker"></span>
     </div>
     <div class="timeline-content">
-      <h3>First Historical Event</h3>
-      <p>The world enters the nuclear age.</p>
+      <h3>The World Enters the Nuclear Age</h3>
+      <p>Photo of the atomic bomb explosion at the Trinity site.</p>
 
       <img
         src="{{ '/assets/images/trinity2.jpg' | relative_url }}"
