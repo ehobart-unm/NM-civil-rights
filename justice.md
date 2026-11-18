@@ -5,7 +5,7 @@ permalink: /justice/
 date: 2025-09-30
 homepage: TRUE
 position: 3
-summary: New Mexico residents have been subjected to many forms of environmental injustice 
+summary: New Mexico residents have been subjected to many forms of environmental injustice, but this page will tell stories of perseverance and grit as New Mexicans have fought to make their home a safer and better place to live.
 thumbnail: /assets/images/trinity.jpg
 ---
 
