@@ -72,7 +72,7 @@ Nuclear Environmental Justice for New Mexicans
 
 <div class="story-box">
 
-<h3>The Story of Nuclear Justice</h3>
+<h3>Why New Mexicans Need Nuclear Justice</h3>
 
 <p>
 When the United States government decided to test the atomic bomb, which was the product of the Manhattan Project, they chose to test it in a sparsely populated section of central New Mexico.  Unfortunately, they did not inform any of the residents of the impending test or ways to protect themselves.  Consequently, the people in the area were still at home when the bomb exploded the morning of July 16, 1945.
