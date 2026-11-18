@@ -30,7 +30,7 @@ Environmental justice is a significant concern for New Mexicans - there have bee
 
   <article class="timeline-event">
     <time class="timeline-date" datetime="July 16, 1945">
-      1960
+      July 16, 1945 5:46am Mountain War Time
     </time>
     <div class="timeline-connector">
       <span class="timeline-marker"></span>
