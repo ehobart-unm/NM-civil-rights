@@ -49,6 +49,19 @@ Environmental justice is a significant concern for New Mexicans - there have bee
       <p class="timeline-image-caption">
         Photo courtesy of the WWII museum: https://www.nationalww2museum.org/war/articles/trinity-why-it-really-mattered.
       </p>
+      
+## Major New Mexico Nuclear Events
+
+<div class="story-box">
+
+<h3>The Story of nuclear justice for Nuevomexicanos...</h3>
+
+<p>
+When the United States government decided to test the atomic bomb, which was the product of the Manhattan Project, they chose to test it in a sparsely populated section of central New Mexico.  Unfortunately, they did not inform any of the residents of the impending test or ways to protect themselves.  Consequently, the people in the area were still at home when the bomb exploded the morning of July 16, 1945.
+</p>
+
+</div>
+
     </div>
   </article>
 
@@ -69,15 +82,3 @@ Environmental justice is a significant concern for New Mexicans - there have bee
 
 
 ---
-
-## Major New Mexico Nuclear Events
-
-<div class="story-box">
-
-<h3>The Story of nuclear justice for Nuevomexicanos...</h3>
-
-<p>
-When the United States government decided to test the atomic bomb, which was the product of the Manhattan Project, they chose to test it in a sparsely populated section of central New Mexico.  Unfortunately, they did not inform any of the residents of the impending test or ways to protect themselves.  Consequently, the people in the area were still at home when the bomb exploded the morning of July 16, 1945.
-</p>
-
-</div>
