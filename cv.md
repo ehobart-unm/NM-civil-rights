@@ -34,7 +34,7 @@ A partial consent decree was signed in 1979 - explain the details here
 
 <div class="story-box">
 
-<h3>The Story of Nuclear Justice</h3>
+<h3>The Terms of the order</h3>
 
 <p>
 The partial consent decree was filed on April 18,1979.  Both Duran and the state of New Mexico agreed on immediate improvements:
