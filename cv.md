@@ -34,7 +34,7 @@ A partial consent decree was signed in 1979
 
 <div class="story-box">
 
-<h3>The Terms of the order</h3>
+<h3>The Terms of the partial consent order</h3>
 
 <p>
 The partial consent decree was filed on April 18,1979.  Both Duran and the state of New Mexico agreed on immediate improvements:
@@ -43,6 +43,19 @@ The partial consent decree was filed on April 18,1979.  Both Duran and the state
   </ul>
 </p>
 
+</div>
+
+<div class="story-box">
+
+<h3>The Terms of the final order</h3>
+
+<p>
+The partial consent decree was filed on April 18,1979.  Both Duran and the state of New Mexico agreed on immediate improvements:
+  <ul>
+    <li>Inmates were no longer required to sign a waiver of their right to their right to object to the opening of their mail or to take action to ensure DOC compliance with constitutional standards for correspondence.</li>
+  </ul>
+</p>
+<ul>The final consent decree ordered that all inmates in the penitentiary on or at any point after June 12, 1980 would be subject to the terms of the decree.  This meant that the Duran Decree had changed life for all future inmates in the New Mexico prison system for the better (there was an exception that the decree did not apply to minimum security prisons).</ul>
 </div>
 
 
@@ -61,4 +74,4 @@ The partial consent decree was filed on April 18,1979.  Both Duran and the state
 <a href="https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/4137.pdf">the original PDF</a>.
 </p>
 
-</div>
+
