@@ -6,7 +6,7 @@ date: 2025-09-30
 homepage: TRUE
 position: 3
 summary: New Mexico residents have been subjected to many forms of environmental injustice 
-thumbnail: assets/images/trinity.jpg
+thumbnail: /assets/images/trinity.jpg
 ---
 
 
