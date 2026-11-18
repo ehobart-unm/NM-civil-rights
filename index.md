@@ -27,7 +27,7 @@ The site is broken into four components:
 <LI>Environmental Justice</LI>
 
 The site is populated with the stories of some of New Mexico's most fierce advocates for Civil Rights, and focuses on the twentieth century
-
+</div>
 <!--Your name, photo, bio, and links come from `_data/nav-profile.yml`, not from this file. Edit them there and this block updates.-->
 <!--To add a new card, create a new page and add those fields. To remove a card, delete `homepage: TRUE` from that page's front matter. To reorder cards, adjust the `position` values.-->
 
