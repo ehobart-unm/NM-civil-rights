@@ -56,6 +56,11 @@ The partial consent decree was filed on April 18,1979.  Both Duran and the state
 
 ---
 
-## Awards & Fellowships
-- Award Name, Institution, Year  
+<h3>References</h3>
 
+<p>
+1979 Partial consent decree in the case, retrieved from
+<a href="https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/4137.pdf">the original PDF</a>.
+</p>
+
+</div>
