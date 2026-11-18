@@ -28,9 +28,9 @@ _Duran v. Apodaca_ (1977):  Dwight Duran, an inmate filed a class-action civil r
 
 ---
 
-## Consent Decree
+## Consent Decrees
 
-A partial consent decree was signed in 1979 - explain the details here
+A partial consent decree was signed in 1979
 
 <div class="story-box">
 
@@ -45,8 +45,6 @@ The partial consent decree was filed on April 18,1979.  Both Duran and the state
 
 </div>
 
-    </div>
-  </article>
 
 
 ---
