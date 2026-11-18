@@ -26,10 +26,21 @@ Nuclear Environmental Justice for New Mexicans
   image-path="/assets/images/mushroom.jpg"
 %}
 
-## Environmental justice is a significant concern for New Mexicans
+## Environmental Justice in New Mexico
 
-The first nuclear bomb detonated in New Mexico, but there is also a storage site for nuclear waste in SE New Mexico
-Clean water and air are constant problems in New Mexico as well
+<div class="story-box">
+
+  <h3>The Story of Nuclear Justice</h3>
+
+  <ul>
+    <li>The first nuclear bomb explosion in the world.</li>
+    <li>Clean Water and Air in New Mexico.</li>
+    <li>Nuclear Waste Storage Site in New Mexico.</li>
+  </ul>
+
+</div>
+
+
 
 ## Historical Timeline
 
