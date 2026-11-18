@@ -26,10 +26,14 @@ Nuclear Environmental Justice for New Mexicans
   image-path="/assets/images/mushroom.jpg"
 %}
 
+## Environmental justice is a significant concern for New Mexicans
+
+The first nuclear bomb detonated in New Mexico, but there is also a storage site for nuclear waste in SE New Mexico
+Clean water and air are constant problems in New Mexico as well
 
 ## Historical Timeline
 
-Environmental justice is a significant concern for New Mexicans - there have been atomic bomb tests that are still, more than eighty years later, directly impacting people.  There is also a storage site for nuclear waste in New Mexico. 
+
 
 <div class="historical-timeline">
 
