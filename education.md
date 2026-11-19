@@ -19,7 +19,7 @@ Education is a core tenant of our civil rights in New Mexico.  Without these pio
 {% include images/figure.html
   class="right"
   width="45%"
-  caption="Adelita (Nina) Otero-Warrren"
+  caption="Adelina (Nina) Otero-Warrren"
   image-path="/assets/images/service-pnp-ggbain-36100-36127vOtero-Warren.jpg"
 %}
 
