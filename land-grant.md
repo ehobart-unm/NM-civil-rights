@@ -136,6 +136,6 @@ Describe the Alianza and their work.  Need to be more specific than this, though
 
 ---
 
-## Past Projects
+## References
 
-Completed work you want to highlight. Thesis, dissertations, grants, exhibits — whatever best represents your scholarly record.
+Add references & hyperlinks here
