@@ -265,11 +265,6 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
 
 ## References
 
-
----
-
-## References
-
 <ul>
 
 
