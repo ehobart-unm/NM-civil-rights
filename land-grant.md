@@ -246,7 +246,14 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
     <h3>Other Important Activities in the Land Grant Movement</h3>
 
     <p>
-    Another significant legal development occurred in Colorado with <em>Lobato v. Taylor</em> (2002), a case involving descendants of settlers on the Sangre de Cristo Land Grant. In 1960, private landowner Jack Taylor purchased approximately 77,000 acres of the grant's mountainous property and subsequently restricted local residents' access to the land. The residents, whose families had traditionally used the property for grazing livestock, gathering firewood, and harvesting timber, challenged Taylor's restrictions in a lawsuit filed in 1981. In 2002, the Colorado Supreme Court recognized their rights to continue these traditional uses, relying on established property-law doctrines, including prescriptive easements, easements by estoppel, and easements arising from prior use. Although the decision did not restore communal ownership of the land, it represented an important legal victory for descendants seeking recognition of rights inherited from the original settlers. Alongside <em>Apodaca v. Unknown Heirs </em>(1982), the case demonstrates that the consequences of historic land dispossession continued to generate legal disputes decades after the height of the twentieth-century land grant movement.
+    Another significant legal development occurred in Colorado with <em>Lobato v. Taylor</em> (2002), a case involving descendants of settlers on the Sangre de Cristo Land Grant. In 1960, private landowner Jack Taylor purchased approximately 77,000 acres of the grant's mountainous property and subsequently restricted local residents' access to the land. 
+  </p>
+  
+  <p>The residents, whose families had traditionally used the property for grazing livestock, gathering firewood, and harvesting timber, challenged Taylor's restrictions in a lawsuit filed in 1981. In 2002, the Colorado Supreme Court recognized their rights to continue these traditional uses, relying on established property-law doctrines, including prescriptive easements, easements by estoppel, and easements arising from prior use. 
+  </p>
+
+  <p>
+    Although the decision did not restore communal ownership of the land, it represented an important legal victory for descendants seeking recognition of rights inherited from the original settlers. Alongside <em>Apodaca v. Unknown Heirs </em>(1982), the case demonstrates that the consequences of historic land dispossession continued to generate legal disputes decades after the height of the twentieth-century land grant movement.
     </p>
 
   </div>
