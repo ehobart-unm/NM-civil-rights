@@ -17,11 +17,10 @@ Not here: the `.container` grid that gives prose its measure (base.css)
 
 @media screen {
 
-/* Center the introductory heading on the Land Grant page */
-.land-grant-intro-heading {
+ /* Center the introductory heading on the Land Grant page */
+.container h2.land-grant-intro-heading {
   text-align: center;
 }
-
           
 /*****************************************************
 TYPOGRAPHY
