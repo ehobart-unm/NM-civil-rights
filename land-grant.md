@@ -8,8 +8,9 @@ summary: The Land Grant movement in New Mexico is best exemplified by Reies Lope
 thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
 ---
 ---
-  <div class="story-box">
 ## The Land Grant Movement was initially led by the Alianza Federal de Mercedes, which was founded by Reies Tijerina.
+  <div class="story-box">
+
 
 <ul>
   <li>This aligns with the Spanish/Mexican approach to land ownership.</li>
