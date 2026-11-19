@@ -1,35 +1,41 @@
 
-
 /* ==========================================
    HISTORICAL HORIZONTAL TIMELINE
    ========================================== */
-
 
 .historical-timeline {
   display: flex;
   flex-wrap: nowrap;
   position: relative;
 
-  /* Break out of the centered content column */
-  width: calc(100vw - 60px);
-  max-width: 1600px;
+  /* Center timeline and break out of content column */
+  width: min(1600px, calc(100vw - 60px));
+  max-width: calc(100vw - 60px);
   left: 50%;
   transform: translateX(-50%);
+  margin: 10px 0 30px;
 
+  /* Center events when they fit; scroll when they don't */
+  justify-content: safe center;
+
+  /* Scrolling and spacing */
   overflow-x: auto;
   padding: 10px 25px 30px;
-  margin: 10px 0;
+  box-sizing: border-box;
   scroll-behavior: smooth;
 }
 
+/* Individual timeline events */
+
 .timeline-event {
-  flex: 1 0 260px;
+  flex: 0 0 260px;
   min-width: 220px;
   position: relative;
   padding-right: 20px;
   box-sizing: border-box;
 }
 
+/* Event dates */
 
 .timeline-date {
   display: block;
@@ -38,6 +44,8 @@
   margin-bottom: 15px;
 }
 
+/* Horizontal timeline line */
+
 .timeline-connector {
   height: 3px;
   width: calc(100% + 20px);
@@ -45,6 +53,8 @@
   position: relative;
   margin-bottom: 20px;
 }
+
+/* Timeline markers */
 
 .timeline-marker {
   position: absolute;
@@ -58,6 +68,8 @@
   box-sizing: content-box;
 }
 
+/* Event descriptions */
+
 .timeline-content h3 {
   font-size: 16px;
   margin-bottom: 8px;
@@ -68,6 +80,8 @@
   line-height: 1.6;
 }
 
+/* Timeline scrollbar */
+
 .historical-timeline::-webkit-scrollbar {
   height: 7px;
 }
@@ -76,6 +90,7 @@
   background: #999;
   border-radius: 5px;
 }
+
 /* Timeline archival photographs */
 
 .timeline-image {
@@ -88,9 +103,24 @@
   background: var(--bg-card);
 }
 
+/* Photograph captions */
+
 .timeline-image-caption {
   font-size: 12px !important;
   color: var(--text-muted);
   line-height: 1.4 !important;
   margin-top: 5px;
+}
+
+/* Smaller screens */
+
+@media (max-width: 768px) {
+  .historical-timeline {
+    width: calc(100vw - 30px);
+    max-width: calc(100vw - 30px);
+  }
+
+  .timeline-event {
+    flex-basis: 240px;
+  }
 }
