@@ -152,45 +152,87 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
 </div>
 
 
+
 ## How does the Land Grant Movement fit in the Civil Rights Picture?
 
 <div class="story-box-row">
 
   <div class="story-box">
 
-    <h3>Alianza Federal de Mercedes legal action</h3>
+    <h3>Alianza Federal de Mercedes: Political and Historical Claims</h3>
 
-    <ul>
-The Alianza Federal was the most well-known organization associated with the land grant movement. Despite Reies Tijerina's claims and actions, there was never a formal lawsuit filed by Tijerina or the Alianza over proper ownership.
-This is because the land grant question had been previously settled by the United States Supreme Court in 1887 with their decision in the <em>Maxwell Land Grant Case</em>.
-    </ul>
+    <p>
+      The Alianza Federal was the most well-known organization associated
+      with the twentieth-century land grant movement. Despite Reies
+      Tijerina's claims and actions, the Alianza did not bring a formal
+      lawsuit seeking to establish its members' ownership of the historic
+      land grants.
+    </p>
+
+    <p>
+      The legal status of many grants had already been the subject of
+      extensive litigation, including the 1887 United States Supreme
+      Court decision in the <em>Maxwell Land Grant Case</em>. However,
+      that decision did not resolve every land-grant ownership dispute
+      in New Mexico.
+    </p>
+
+    <p>
+      Tijerina's movement challenged the historical dispossession of
+      communal lands and sought recognition of the collective rights
+      of land-grant communities.
+    </p>
 
   </div>
-
-<div class="story-box-row">
 
   <div class="story-box">
 
-    <h3>Notable court cases</h3>
+    <h3>Notable Court Cases</h3>
 
-    <ul>
-The Alianza Federal was the most well-known organization associated with the twentieth-century land grant movement. Despite Reies Tijerina's claims and actions, the Alianza did not bring a formal lawsuit seeking to establish its members' ownership of the historic land grants. The legal status of many grants had already been the subject of extensive litigation, including the 1887 United States Supreme Court decision in the Maxwell Land Grant Case. In that case, the Court upheld the validity and extent of the Maxwell Land Grant as confirmed by Congress in 1860. However, this decision did not resolve every land-grant ownership dispute in New Mexico.
+    <p>
+      In contrast to the Alianza's broader political objectives,
+      <em>Apodaca v. Unknown Heirs of Following Persons Who Are
+      Adjudged to Be Owners and Proprietors of the Tome Land Grant</em>
+      (1982) addressed the legal rights of identifiable heirs and
+      co-owners to proceeds from the sale of a particular land grant.
+    </p>
 
-It is important, however, to distinguish between the political objectives of the Alianza Federal and the legal claims pursued in subsequent land-grant litigation. Tijerina's movement challenged the historical dispossession of communal lands and sought to restore the collective rights of land-grant communities. Cases such as Apodaca v. Unknown Heirs addressed a narrower legal question: who, under existing property and inheritance law, was entitled to receive the proceeds from the sale of a particular grant. Although both reflected continuing disputes over the loss of communal lands, they represented different approaches to seeking redress. The distinction illustrates the divide between a broader movement for historical and collective justice and the individual legal claims that courts were prepared to adjudicate.
+    <p>
+      The New Mexico Supreme Court reaffirmed that the proceeds
+      from the sale of the Tome Land Grant's common lands belonged
+      to the rightful heirs and co-owners, rather than to individuals
+      who had received payments through an invalid corporation.
+    </p>
 
-In 1982, Mrs. Manuel Apodaca pursued a case that became known as <em>Apodaca v. Unknown Heirs of Following Persons Who Are Adjudged to Be Owners and Proprietors of the Tome Land Grant.</em> The case was significant because the New Mexico Supreme Court reaffirmed that the proceeds from the sale of the Tome Land Grant's common lands belonged to the rightful heirs and co-owners, rather than to individuals who had received payments through an invalid corporation. The Court ruled that the district court retained authority to review previous distributions and require the return of improperly distributed proceeds. It reversed the lower court's decision and remanded the case for further proceedings.
+    <p>
+      The Court ruled that the district court retained authority to
+      review previous distributions and require the return of
+      improperly distributed proceeds. It reversed the lower court's
+      decision and remanded the case for further proceedings.
+    </p>
 
-Importantly, this case highlights the continuing tensions surrounding the land grant movement in New Mexico. Although the decision did not resolve every outstanding land-grant dispute, it demonstrated that legal avenues remained available to descendants seeking recognition of their inheritance rights and a more equitable distribution of proceeds from lands that had once belonged to their communities.
-    </ul>
+    <p>
+      Although the decision did not resolve every outstanding
+      land-grant dispute, it demonstrated that legal avenues remained
+      available to descendants seeking recognition of their inheritance
+      rights and a more equitable distribution of proceeds from lands
+      that had once belonged to their communities.
+    </p>
+
+    <p>
+      These cases illustrate the distinction between a broader
+      movement for historical and collective justice and the
+      individual legal claims that courts were prepared to adjudicate.
+    </p>
 
   </div>
 
-
-
-
+</div>
 
 ---
 
 ## References
-Apodaca v. Unknown Heirs of Following Persons Who Are Adjudged to Be Owners and Proprietors of the Tome Land Grant, 98 N.M. 620, 651 P.2d 1264 (1982), decided September 7, 1982.
-Add references & hyperlinks here
+
+Apodaca v. Unknown Heirs of Following Persons Who Are Adjudged to Be Owners and Proprietors of the Tome Land Grant, 98 N.M. 620, 651 P.2d 1264 (1982).
+
+Add remaining references and hyperlinks here.
