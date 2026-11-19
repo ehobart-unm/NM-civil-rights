@@ -20,6 +20,7 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
   <li>This centers the land grant movement within the overall Chicanx Civil Rights Movement: the people were meant to work together as a community, not as individuals.</li>
   <li>The premise behind Tijerina's claim was the 1848 Treaty of Guadalupe Hidalgo, which ended the Mexican-American War. He argued that Mexican law recognized communal landholding and that the United States failed to uphold those rights after the treaty.</li>
   <li>Importantly, the treaty did recognize property rights established under Mexican rule prior to the cession of the territory.</li>
+  <li>Tijerina was sentenced to prison after the Echo Amphitheater fire. Upon his release, he was ineligible to lead the Alianza, which led to its deterioration</li>
 </ul>
 </div>
 
