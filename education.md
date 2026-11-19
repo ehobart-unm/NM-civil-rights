@@ -16,12 +16,30 @@ Educators who made a difference
 
 Education is a core tenant of our civil rights in New Mexico.  Without these pioneers, our education system would be lacking.  This page is dedicated to those that have made a difference by advocating for or promoting civil rights.
 
-{% include images/figure.html
-  class="right"
-  width="45%"
-  caption="Adelina (Nina) Otero-Warrren"
-  image-path="/assets/images/service-pnp-ggbain-36100-36127vOtero-Warren.jpg"
-%}
+
+ <div class="equal-image-row">
+
+  {% include images/figure.html
+    image-width="100%"
+    caption="Nina Otero-Warren"
+    image-path="/assets/images/service-pnp-ggbain-36100-36127vOtero-Warren.jpg"
+  %}
+
+  {% include images/figure.html
+    image-width="100%"
+    caption="Fabiola Cabeza de Baca Gilbert"
+    image-path="/assets/images/Gilbert.jpg"
+  %}
+  {% include images/figure.html
+    image-width="100%"
+    caption="Nadine and Patsy Cordova"
+    image-path="/assets/images/Cordova.jpg"
+  %}
+
+
+</div>
+
+
 
 Nina Otero-Warren was the superintendent of Santa Fe Schools from 1915-1927.  During this time, she fought for bilingual education.
 
