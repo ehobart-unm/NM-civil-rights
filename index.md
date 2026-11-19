@@ -25,10 +25,7 @@ date: 2026-09-16
   <div class="story-box">
 
     <p>
-      <h3>This website was designed to provide the viewer with a look into
-      some of the more seminal Civil Rights issues that impacted Chicanx
-      (and in some cases all) residents of New Mexico.
-    </h3>
+      <h3>Website Organization</h3>
     </p>
 
     <p>The site is broken into four components:</p>
