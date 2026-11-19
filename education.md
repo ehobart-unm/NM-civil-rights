@@ -28,7 +28,7 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
     %}
 
     <div class="story-box">
-      <h3>Adelita (Nina) Otero-Warren</h3>
+      <h4>Adelita (Nina) Otero-Warren (1881-1965)</h4>
       <p>
         Nina Otero-Warren was the superintendent of Santa Fe Schools
         from 1915–1927. During this time, she fought for bilingual
@@ -48,7 +48,7 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
     %}
 
     <div class="story-box">
-      <h3>Fabiola Cabeza de Baca Gilbert</h3>
+      <h4>Fabiola Cabeza de Baca Gilbert (1894-1991)</h4>
       <p>
         Add your story about Fabiola Cabeza de Baca Gilbert here.
       </p>
@@ -66,7 +66,7 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
     %}
 
     <div class="story-box">
-      <h3>The Sisters from Vaughn</h3>
+      <h4>Nadine and Patsy C&oacute;rdova</h4>
       <p>
         Add the story of Nadine and Patsy Cordova here, including
         their use of the Chicanx history textbook and the consequences
@@ -82,4 +82,4 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
 
 ## References
 
-
+New Mexico State University. “History-Making NMSU Extension Agent to Be Inducted into National Agricultural Hall of Fame.” September 18, 2023. https://newsroom.nmsu.edu/news/history-making-nmsu-extension-agent-to-be-inducted-into-national-agricultural-hall-of-fame/s/0183c3ca-e077-42df-acb3-2e2741761174
