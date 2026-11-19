@@ -14,45 +14,72 @@ Educators who made a difference
 
 ## New Mexico Educators
 
-Education is a core tenant of our civil rights in New Mexico.  Without these pioneers, our education system would be lacking.  This page is dedicated to those that have made a difference by advocating for or promoting civil rights.
+Education is a core tenet of our civil rights in New Mexico.  Without these pioneers, our education system would be lacking.  This page is dedicated to those that have made a difference by advocating for or promoting civil rights.
 
+<div class="educator-profile-row">
 
- <div class="equal-image-row">
+  <!-- Nina Otero-Warren -->
+  <div class="educator-profile-card">
 
-  {% include images/figure.html
-    image-width="100%"
-    caption="Nina Otero-Warren"
-    image-path="/assets/images/service-pnp-ggbain-36100-36127vOtero-Warren.jpg"
-  %}
+    {% include images/figure.html
+      image-width="100%"
+      caption="Nina Otero-Warren"
+      image-path="/assets/images/service-pnp-ggbain-36100-36127vOtero-Warren.jpg"
+    %}
 
-  {% include images/figure.html
-    image-width="100%"
-    caption="Fabiola Cabeza de Baca Gilbert"
-    image-path="/assets/images/Gilbert.jpg"
-  %}
-  {% include images/figure.html
-    image-width="100%"
-    caption="Nadine and Patsy Cordova"
-    image-path="/assets/images/Cordova.jpg"
-  %}
+    <div class="story-box">
+      <h3>Adelita (Nina) Otero-Warren</h3>
+      <p>
+        Nina Otero-Warren was the superintendent of Santa Fe Schools
+        from 1915–1927. During this time, she fought for bilingual
+        education.
+      </p>
+    </div>
 
+  </div>
+
+  <!-- Fabiola Cabeza de Baca Gilbert -->
+  <div class="educator-profile-card">
+
+    {% include images/figure.html
+      image-width="100%"
+      caption="Fabiola Cabeza de Baca Gilbert"
+      image-path="/assets/images/Gilbert.jpg"
+    %}
+
+    <div class="story-box">
+      <h3>Fabiola Cabeza de Baca Gilbert</h3>
+      <p>
+        Add your story about Fabiola Cabeza de Baca Gilbert here.
+      </p>
+    </div>
+
+  </div>
+
+  <!-- Nadine and Patsy Cordova -->
+  <div class="educator-profile-card">
+
+    {% include images/figure.html
+      image-width="100%"
+      caption="Nadine and Patsy Cordova"
+      image-path="/assets/images/Cordova.jpg"
+    %}
+
+    <div class="story-box">
+      <h3>The Sisters from Vaughn</h3>
+      <p>
+        Add the story of Nadine and Patsy Cordova here, including
+        their use of the Chicanx history textbook and the consequences
+        they faced.
+      </p>
+    </div>
+
+  </div>
 
 </div>
 
-
-
-Nina Otero-Warren was the superintendent of Santa Fe Schools from 1915-1927.  During this time, she fought for bilingual education.
-
-
 ---
 
-## Adelita (Nina) Otero-Warren
+## References
 
-## The sisters from Vaughn
-
-Tell the story here about the two teachers that were using the Chicanx history book and got fired.  Explain the value of using that book.
-
-## Find a third person/institution that benefits overall educational rights
-
----
 
