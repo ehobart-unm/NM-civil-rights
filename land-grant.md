@@ -265,6 +265,39 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
 
 ## References
 
-Apodaca v. Unknown Heirs of Following Persons Who Are Adjudged to Be Owners and Proprietors of the Tome Land Grant, 98 N.M. 620, 651 P.2d 1264 (1982).
 
-Add remaining references and hyperlinks here.
+---
+
+## References
+
+<ul>
+
+
+  <li>
+    <em>Apodaca v. Unknown Heirs of Following Persons Who Are Adjudged to Be Owners and Proprietors of the Tome Land Grant</em>, 98 N.M. 620, 651 P.2d 1264 (1982).
+    <a href="https://law.justia.com/cases/new-mexico/supreme-court/1982/13890-0.html" target="_blank" rel="noopener noreferrer">
+      Read the New Mexico Supreme Court opinion.
+    </a>
+  </li>
+
+  <li>
+    <em>Lobato v. Taylor</em>, 71 P.3d 938 (Colo. 2002).
+    <a href="https://law.justia.com/cases/colorado/supreme-court/2002/00sc527-0.html" target="_blank" rel="noopener noreferrer">
+      Read the Colorado Supreme Court opinion.
+    </a>
+  </li>
+<li>Nabokov, Peter. <em>Tijerina and the Courthouse Raid</em>, Albuquerque, University of New Mexico Press, 1969</li>
+
+   <li>
+    <em>Maxwell Land Grant Case</em>, 121 U.S. 325 (1887).
+    <a href="https://tile.loc.gov/storage-services/service/ll/usrep/usrep121/usrep121325/usrep121325.pdf" target="_blank" rel="noopener noreferrer">
+      Library of Congress, United States Reports (PDF).
+    </a>
+  </li>   
+  <li> Treaty of Guadalupe Hidalgo, February 2, 1848.
+    <a href="https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo" target="_blank" rel="noopener noreferrer">
+      National Archives, Treaty documentation and transcript.
+    </a>
+  </li>
+</ul>
+
