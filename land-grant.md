@@ -8,6 +8,7 @@ summary: The Land Grant movement in New Mexico is best exemplified by Reies Lope
 thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
 ---
 ---
+  <div class="story-box">
 ## The Land Grant Movement was initially led by the Alianza Federal de Mercedes, which was founded by Reies Tijerina.
 
 <ul>
@@ -16,7 +17,7 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
   <li>The premise behind Tijerina's claim was the 1848 Treaty of Guadalupe Hidalgo, which ended the Mexican-American War. He argued that Mexican law recognized communal landholding and that the United States failed to uphold those rights after the treaty.</li>
   <li>Importantly, the treaty did recognize property rights established under Mexican rule prior to the cession of the territory.</li>
 </ul>
-
+</div>
 
  <div class="equal-image-row">
 
