@@ -226,13 +226,6 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
     </p>
 
     <p>
-      The Court ruled that the district court retained authority to
-      review previous distributions and require the return of
-      improperly distributed proceeds. It reversed the lower court's
-      decision and remanded the case for further proceedings.
-    </p>
-
-    <p>
       Although the decision did not resolve every outstanding
       land-grant dispute, it demonstrated that legal avenues remained
       available to descendants seeking recognition of their inheritance
