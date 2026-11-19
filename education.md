@@ -50,7 +50,10 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
     <div class="story-box">
       <h4>Fabiola Cabeza de Baca Gilbert (1894-1991)</h4>
       <p>
-        Add your story about Fabiola Cabeza de Baca Gilbert here.
+        Fabiola Cabeza de Baca was a pioneer in New Mexican education.  Much like Adelina Otero-Warren, she promoted bilingual education.  She even created her own bilingual teaching materials and taught her students using their native language - whether it was Spanish or an indigenous language.  She was fluent in Spanish, English, Tewa and Tiwa
+      </p>
+      <p>
+      During the Great Depression years (1929-1941), she traveled to teach rural residents skills in food preservation, gardening, poultry-raising, sewing and home repair. She advocated more public services, such as running water, paved roads, electricity, and telephone service for those residents in underserved communities.
       </p>
     </div>
 
