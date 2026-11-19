@@ -125,6 +125,26 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
       </p>
     </div>
   </article>
+ <article class="timeline-event">
+    <time class="timeline-date" datetime="1969-06-11">June 11, 1969</time>
+    <div class="timeline-connector">
+      <span class="timeline-marker"></span>
+    </div>
+    <div class="timeline-content">
+      <h3>Tijerina Reports to Prison</h3>
+      <p>
+        Tijerina reported to Federal prison in La Tuna, Anthony, Texas
+      </p>
+      <img
+        src="{{ '/assets/images/FCI_La_Tuna.jpg' | relative_url }}"
+        alt="The prison where Tijerina was incarcerated for approximately seven months"
+        class="timeline-image">
+      <p class="timeline-image-caption">
+        Photo of La Tuna courtesy of Donald Watkins Facebook page
+      </p>
+    </div>
+  </article>
+  
 
 </div>
 
