@@ -16,7 +16,7 @@ date: 2026-09-16
       <li>In 1912, New Mexico became the 47th state in the union.</li>
       <li>In 1916, Pancho Villa invaded the United States at Columbus, New Mexico.</li>
       <li>In 1945, The first nuclear weapon in the world was tested.</li>
-      <li>In 1947, An unidentified flying object (UFO) allegedly crashed at Roswell.</li>
+      <li>In 1947, An unidentified flying object (UFO) allegedly crashed at Roswell, setting off a craze about aliens around the country.</li>
       <li>In 1980, The Duran decree was signed.</li>
     </ul>
 
@@ -25,9 +25,10 @@ date: 2026-09-16
   <div class="story-box">
 
     <p>
-      This website was designed to provide the viewer with a look into
+      <h3>This website was designed to provide the viewer with a look into
       some of the more seminal Civil Rights issues that impacted Chicanx
       (and in some cases all) residents of New Mexico.
+    </h3>
     </p>
 
     <p>The site is broken into four components:</p>
