@@ -4,6 +4,7 @@ layout: base
 homepage: TRUE
 position: 4
 summary: New Mexico prisons housed many Chicanx people in the 1970s and 80s.  Dwight Duran made a huge difference for all subsequent inmates.
+The image shown to the left is a picture of the barracks after the 1980 prison riot in Santa Fe.
 thumbnail: assets/images/Riot aftermath.jpeg
 thumbnail-position: top
 thumbnail-zoom: 1.3
