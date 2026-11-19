@@ -32,20 +32,21 @@ date: 2026-09-16
 
     <p>The site is broken into four components:</p>
 
-    <ul>
-      <li>The Land Grant Movement</li>
-      <li>Education &amp; Suffrage</li>
-      <li>Prisoner Rights</li>
-      <li>Environmental Justice</li>
-    </ul>
+<ul>
+  <li>The Land Grant Movement</li>
+  <li>Education &amp; Suffrage</li>
+  <li>Prisoner Rights</li>
+  <li>Environmental Justice</li>
+</ul>
 
-
-  </div>
+<p>
+  The site is populated with the stories of some of New Mexico's
+  most fierce advocates for Civil Rights, and focuses on the
+  twentieth century.
+</p>
 
 </div>
-
-The site is populated with the stories of some of New Mexico's most fierce advocates for Civil Rights, and focuses on the twentieth century
-</DIV>
+</div>
 <!--Your name, photo, bio, and links come from `_data/nav-profile.yml`, not from this file. Edit them there and this block updates.-->
 <!--To add a new card, create a new page and add those fields. To remove a card, delete `homepage: TRUE` from that page's front matter. To reorder cards, adjust the `position` values.-->
 
