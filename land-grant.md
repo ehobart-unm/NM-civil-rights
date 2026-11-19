@@ -51,7 +51,7 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
       <span class="timeline-marker"></span>
     </div>
     <div class="timeline-content">
-      <h3>The treaty presented to the United States Senate for ratification</h3>
+      <h3>The Guadalupe-Hidalgo treaty presented to the United States Senate for ratification</h3>
       <p>Negotiated by Nicolas Trist</p>
   <img
         src="{{ '/assets/images/treaty.jpg' | relative_url }}"
