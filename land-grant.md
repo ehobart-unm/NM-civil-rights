@@ -43,6 +43,27 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
 
 <div class="historical-timeline">
 
+ <article class="timeline-event">
+    <time class="timeline-date" datetime="1848-02-02">
+      February 2, 1848
+    </time>
+    <div class="timeline-connector">
+      <span class="timeline-marker"></span>
+    </div>
+    <div class="timeline-content">
+      <h3>The treaty presented to the United States Senate for ratification</h3>
+      <p>Negotiated by Nicolas Trist</p>
+  <img
+        src="{{ '/assets/images/treaty.jpg' | relative_url }}"
+        alt="A photo of the original bound version of the treaty presented to the US Senate."
+        class="timeline-image">
+      <p class="timeline-image-caption">
+        Photo of the treaty documents presented to the United States Senate for Ratification.
+      </p>
+    </div>
+  </article>
+
+
   <article class="timeline-event">
     <time class="timeline-date" datetime="1962-02-02">
       February 2, 1962
@@ -226,6 +247,17 @@ thumbnail: /assets/images/Reies_Tijerina_1968_Edit.jpg
     </p>
 
   </div>
+
+ <div class="story-box">
+
+    <h3>Other Important Activities in the Land Grant Movement</h3>
+
+    <p>
+    Another significant legal development occurred in Colorado with <em>Lobato v. Taylor</em> (2002), a case involving descendants of settlers on the Sangre de Cristo Land Grant. In 1960, private landowner Jack Taylor purchased approximately 77,000 acres of the grant's mountainous property and subsequently restricted local residents' access to the land. The residents, whose families had traditionally used the property for grazing livestock, gathering firewood, and harvesting timber, challenged Taylor's restrictions in a lawsuit filed in 1981. In 2002, the Colorado Supreme Court recognized their rights to continue these traditional uses, relying on established property-law doctrines, including prescriptive easements, easements by estoppel, and easements arising from prior use. Although the decision did not restore communal ownership of the land, it represented an important legal victory for descendants seeking recognition of rights inherited from the original settlers. Alongside <em>Apodaca v. Unknown Heirs </em>(1982), the case demonstrates that the consequences of historic land dispossession continued to generate legal disputes decades after the height of the twentieth-century land grant movement.
+    </p>
+
+  </div>
+
 
 </div>
 
