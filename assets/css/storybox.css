@@ -84,6 +84,37 @@
   margin: 15px 0 0;
 }
 
+/* Make educator profile photographs consistent */
+
+.educator-profile-card figure {
+  width: 100% !important;
+  height: 280px;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.educator-profile-card figure a.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.educator-profile-card figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.educator-profile-card figure figcaption {
+  height: 30px;
+  margin-top: 0;
+  text-align: left;
+}
+
 /* Stack educator profiles on smaller screens */
 
 @media (max-width: 900px) {
