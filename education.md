@@ -30,7 +30,7 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
     <div class="story-box">
       <h4>Adelita (Nina) Otero-Warren (1881-1965)</h4>
       <p>
-        Nina Otero-Warren was an educator at heart, and significantly improved education in Northern New Mexico.  She dedicated twelve years to working as the Superintendent of schools in Santa Fe.  As a progressive, she wanted to promote the identity of the New Mexican people.  She did this through educating the people by using local culture.
+        Nina Otero-Warren was an educator at heart who significantly improved education in Northern New Mexico.  She dedicated twelve years to working as the Superintendent of schools in Santa Fe.  As a progressive, she wanted to promote the identity of the New Mexican people.  She did this through educating the people by using local culture.
       </p>
       <p>
       Nina also worked hard to combat problems of illiteracy and economic hardship for the people of New Mexico, and even caught the eye of President Franklin Roosevelt, who assigned her to oversee the federal literacy program in Puerto Rico.
@@ -86,5 +86,6 @@ Nadine and Patsy C&oacute;rdova taught in the rural town of Vaughn, New Mexico, 
 ---
 
 ## References
+Hill, David. “Sisters in Arms.” Teacher Magazine, September 1997. Reprinted by Civil Rights Teaching. Accessed November 19, 2026. https://www.civilrightsteaching.org/resource/sisters-in-arms [Vaughn Teachers](https://www.civilrightsteaching.org/resource/sisters-in-arms)
 
-New Mexico State University. “History-Making NMSU Extension Agent to Be Inducted into National Agricultural Hall of Fame.” September 18, 2023. https://newsroom.nmsu.edu/news/history-making-nmsu-extension-agent-to-be-inducted-into-national-agricultural-hall-of-fame/s/0183c3ca-e077-42df-acb3-2e2741761174
+New Mexico State University. “History-Making NMSU Extension Agent to Be Inducted into National Agricultural Hall of Fame.” September 18, 2023. [Fabiola C. de Baca](https://newsroom.nmsu.edu/news/history-making-nmsu-extension-agent-to-be-inducted-into-national-agricultural-hall-of-fame/s/0183c3ca-e077-42df-acb3-2e2741761174)https://newsroom.nmsu.edu/news/history-making-nmsu-extension-agent-to-be-inducted-into-national-agricultural-hall-of-fame/s/0183c3ca-e077-42df-acb3-2e2741761174
