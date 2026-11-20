@@ -70,7 +70,15 @@
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 25px;
   align-items: stretch;
-  margin: 30px 0;
+
+  /* Expand beyond the normal page content column */
+  width: min(1400px, calc(100vw - 80px));
+  max-width: none;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+
+  margin: 30px 0 15px;
 }
 
 .educator-profile-card {
@@ -120,5 +128,8 @@
 @media (max-width: 900px) {
   .educator-profile-row {
     grid-template-columns: 1fr;
+    width: 100%;
+    left: auto;
+    transform: none;
   }
 }
