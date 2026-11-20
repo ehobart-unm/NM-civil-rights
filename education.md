@@ -15,7 +15,11 @@ Educators who made a difference
 ## New Mexico Educators
 
 Education is a core tenet of our civil rights in New Mexico.  Without these pioneers, our education system would be lacking.  This page is dedicated to those that have made a difference by advocating for or promoting civil rights.
-
+<p>In territorial New Mexico, public schools were instruments of learning, as in the other territories in American history, but with the effort to 'Americanize' the people of New Mexico, the curriculum was similar to that taught in American schools in the East, with a focus on places like New England and the Atlantic states.
+</p>
+<p>Early educators were able to change the learning environment to focus on local history, including the use of New Mexico culture and multilingual education, which was appropriate since New Mexico was the home to people speaking many different languages </p>
+<p>Unfortunately, even after these changes, education was unequal for the students of New Mexico, and this continued throughout the century.  Changes have been slow to come, and equal treatment of all the people in New Mexico's history has been difficult to achieve.</p>
+<p>The people profiled below all fought for Chicanx Civil Rights in the educational realm, whether it was through promoting bilingual education, teaching practical skills to rural New Mexicans, or fighting to teach a balanced history to New Mexican students.</p>
 <div class="educator-profile-row">
 
   <!-- Nina Otero-Warren -->
@@ -68,7 +72,7 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
 
     {% include images/figure.html
       image-width="100%"
-      caption="Nadine and Patsy  C&oacute;rdova. Photo courtesy of Civil Rights Teaching website and Wendy Walsh"
+      caption="Nadine and Patsy  C&oacute;rdova. Photo by Wendy Walsh"
       image-path="/assets/images/Cordova.jpg"
     %}
 
