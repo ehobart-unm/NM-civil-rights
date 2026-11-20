@@ -34,6 +34,7 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
       </p>
       <p>
       Nina also worked hard to combat problems of illiteracy and economic hardship for the people of New Mexico, and even caught the eye of President Franklin Roosevelt, who assigned her to oversee the federal literacy program in Puerto Rico.
+      </p>
     </div>
 
   </div>
