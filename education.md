@@ -40,7 +40,7 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
       Nina also worked hard to combat problems of illiteracy and economic hardship for the people of New Mexico, and even caught the eye of President Franklin Roosevelt, who assigned her to oversee the federal literacy program in Puerto Rico.
       </p>
       <p>
-      As an educator, Nina Otero-Warren was a model citizen for the state and an activist who strove to improve the lives of those living in New Mexico.
+      As an educator, Nina Otero-Warren was a model citizen for the state and an activist who strove to improve the lives of those living in New Mexico.  Her contributions, though, do not stop at education - she also fought for the people of New Mexico by working on the ratification of the constitutional amendment that granted women the right to vote.  Her contributions to New Mexico should be recognized by all.
       </p> 
     </div>
 
@@ -58,10 +58,13 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
     <div class="story-box">
       <h4>Fabiola Cabeza de Baca Gilbert (1894-1991)</h4>
       <p>
-        Fabiola Cabeza de Baca was a pioneer in New Mexican education.  Much like Adelina Otero-Warren, she promoted bilingual education.  She even created her own bilingual teaching materials and taught her students using their native language - whether it was Spanish or an indigenous language.  She was fluent in Spanish, English, Tewa and Tiwa
+        Fabiola Cabeza de Baca Gilbert was a pioneer in New Mexican education.  Much like Adelina Otero-Warren, she promoted bilingual education.  She even created her own bilingual teaching materials and taught her students using their native language - whether it was Spanish or an indigenous language.  She was fluent in Spanish, English, Tewa and Tiwa
       </p>
       <p>
       During the Great Depression years (1929-1941), she traveled to teach rural residents skills in food preservation, gardening, poultry-raising, sewing and home repair. She advocated more public services, such as running water, paved roads, electricity, and telephone service for those residents in underserved communities.
+      </p>
+      <p>
+      Cabeza de Baca Gilbert was a Civil Rights Activist for Chicanx people in educational matters, but she also did much more than that - she helped people during the worst economic crisis of the twentieth century in ways that allowed them to be more self-sustaining while living in the land of enchantment.
       </p>
     </div>
 
