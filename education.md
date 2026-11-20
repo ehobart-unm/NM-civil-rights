@@ -30,11 +30,14 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
     <div class="story-box">
       <h4>Adelita (Nina) Otero-Warren (1881-1965)</h4>
       <p>
-        Nina Otero-Warren was an educator at heart, and made tremendous strides in improving education in Northern New Mexico.  She dedicated twelve years to working as the Superintendent of schools in Santa Fe.  As a progressive, she wanted to promote the identity of the New Mexican people.  She did this through educating the people by using local culture.
+        Nina Otero-Warren was an educator at heart, and significantly improved education in Northern New Mexico.  She dedicated twelve years to working as the Superintendent of schools in Santa Fe.  As a progressive, she wanted to promote the identity of the New Mexican people.  She did this through educating the people by using local culture.
       </p>
       <p>
       Nina also worked hard to combat problems of illiteracy and economic hardship for the people of New Mexico, and even caught the eye of President Franklin Roosevelt, who assigned her to oversee the federal literacy program in Puerto Rico.
       </p>
+      <p>
+      As an educator, Nina Otero-Warren was a model citizen for the state and an activist who strove to improve the lives of those living in New Mexico.
+      </p> 
     </div>
 
   </div>
@@ -65,16 +68,14 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
 
     {% include images/figure.html
       image-width="100%"
-      caption="Nadine and Patsy Cordova"
+      caption="Nadine and Patsy  C&oacute;rdova"
       image-path="/assets/images/Cordova.jpg"
     %}
 
     <div class="story-box">
       <h4>Nadine and Patsy C&oacute;rdova</h4>
       <p>
-        Add the story of Nadine and Patsy Cordova here, including
-        their use of the Chicanx history textbook and the consequences
-        they faced.
+Nadine and Patsy C&oacute;rdova taught in the rural town of Vaughn, New Mexico, in the 1990s.  
       </p>
     </div>
 
