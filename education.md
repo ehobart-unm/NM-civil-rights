@@ -74,8 +74,9 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
 
     <div class="story-box">
       <h4>Nadine and Patsy C&oacute;rdova</h4>
+      <h4>Photo courtesy of Civil Rights Teaching website and Wendy Walsh</h4>
       <p>
-Nadine and Patsy C&oacute;rdova taught in the rural town of Vaughn, New Mexico, in the 1990s.  
+Nadine and Patsy C&oacute;rdova taught in the rural town of Vaughn, New Mexico, in the 1980s and 90s.  
       </p>
     </div>
 
@@ -86,6 +87,6 @@ Nadine and Patsy C&oacute;rdova taught in the rural town of Vaughn, New Mexico, 
 ---
 
 ## References
-Hill, David. “Sisters in Arms.” Teacher Magazine, September 1997. Reprinted by Civil Rights Teaching. Accessed November 19, 2026. https://www.civilrightsteaching.org/resource/sisters-in-arms [Vaughn Teachers](https://www.civilrightsteaching.org/resource/sisters-in-arms)
+Hill, David. “Sisters in Arms.” Teacher Magazine, September 1997. Reprinted by Civil Rights Teaching. Accessed November 19, 2026. https://www.civilrightsteaching.org/resource/sisters-in-arms [Vaughn Teachers] (https://www.civilrightsteaching.org/resource/sisters-in-arms)
 
-New Mexico State University. “History-Making NMSU Extension Agent to Be Inducted into National Agricultural Hall of Fame.” September 18, 2023. [Fabiola C. de Baca](https://newsroom.nmsu.edu/news/history-making-nmsu-extension-agent-to-be-inducted-into-national-agricultural-hall-of-fame/s/0183c3ca-e077-42df-acb3-2e2741761174)https://newsroom.nmsu.edu/news/history-making-nmsu-extension-agent-to-be-inducted-into-national-agricultural-hall-of-fame/s/0183c3ca-e077-42df-acb3-2e2741761174
+New Mexico State University. “History-Making NMSU Extension Agent to Be Inducted into National Agricultural Hall of Fame.” September 18, 2023. [Fabiola C. de Baca] (https://newsroom.nmsu.edu/news/history-making-nmsu-extension-agent-to-be-inducted-into-national-agricultural-hall-of-fame/s/0183c3ca-e077-42df-acb3-2e2741761174)https://newsroom.nmsu.edu/news/history-making-nmsu-extension-agent-to-be-inducted-into-national-agricultural-hall-of-fame/s/0183c3ca-e077-42df-acb3-2e2741761174
