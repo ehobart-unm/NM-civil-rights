@@ -30,10 +30,10 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
     <div class="story-box">
       <h4>Adelita (Nina) Otero-Warren (1881-1965)</h4>
       <p>
-        Nina Otero-Warren was the superintendent of Santa Fe Schools
-        from 1915–1927. During this time, she fought for bilingual
-        education.
+        Nina Otero-Warren was an educator at heart, and made tremendous strides in improving education in Northern New Mexico.  She dedicated twelve years to working as the Superintendent of schools in Santa Fe.  As a progressive, she wanted to promote the identity of the New Mexican people.  She did this through educating the people by using local culture.
       </p>
+      <p>
+      Nina also worked hard to combat problems of illiteracy and economic hardship for the people of New Mexico, and even caught the eye of President Franklin Roosevelt, who assigned her to oversee the federal literacy program in Puerto Rico.
     </div>
 
   </div>
