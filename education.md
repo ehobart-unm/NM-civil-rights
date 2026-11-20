@@ -68,16 +68,21 @@ Education is a core tenet of our civil rights in New Mexico.  Without these pion
 
     {% include images/figure.html
       image-width="100%"
-      caption="Nadine and Patsy  C&oacute;rdova"
+      caption="Nadine and Patsy  C&oacute;rdova. Photo courtesy of Civil Rights Teaching website and Wendy Walsh"
       image-path="/assets/images/Cordova.jpg"
     %}
 
     <div class="story-box">
       <h4>Nadine and Patsy C&oacute;rdova</h4>
-      <h4>Photo courtesy of Civil Rights Teaching website and Wendy Walsh</h4>
       <p>
-Nadine and Patsy C&oacute;rdova taught in the rural town of Vaughn, New Mexico, in the 1980s and 90s.  
+Nadine and Patsy C&oacute;rdova taught in the rural town of Vaughn, New Mexico, in the 1980s and 90s.  As members of the Chicanx community, they wanted to teach their students  (most of whom were also chicanx) lessons about the Chicanx community.  They organized a chapter of MEChA, which supports educating Chicanx people on the history of their ancestors - not just what the history books say about history on the East Coast of the US.
       </p>
+      <p>
+      Both sisters were fired for teaching "subversive ideas" in the classroom.  They successfully sued the district and won a monetary settlement, but the school district was never required to acknowledge whether the C&oacute;rdova sisters were victims of first amendment discrimination, since the alleged violations occurred when they teaching about Chicanx history.
+      </p>
+      <p>
+      The lawsuit shows why the C&oacute;rdova sisters are Civil Rights activists.  This case saw teachers challenge an education system that prevented Chicanx student from learning about relevant historical experiences.  It also raised the question of who really has the authority to determine which histories are appropriate for a public school classroom?
+    </p>
     </div>
 
   </div>
