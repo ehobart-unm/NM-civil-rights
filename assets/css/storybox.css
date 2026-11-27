@@ -1,5 +1,7 @@
 
-/* Story box */
+/* =========================================
+   GENERAL STORY BOX
+   ========================================= */
 
 .story-box {
   width: 100%;
@@ -25,7 +27,11 @@
   line-height: 1.5;
 }
 
-/* Three-column story boxes */
+
+/* =========================================
+   THREE-COLUMN STORY BOXES
+   Land Grant page
+   ========================================= */
 
 .story-box-row {
   display: flex;
@@ -52,7 +58,7 @@
   box-sizing: border-box;
 }
 
-/* Stack boxes on smaller screens */
+/* Stack story boxes on smaller screens */
 
 @media (max-width: 900px) {
   .story-box-row {
@@ -63,7 +69,10 @@
   }
 }
 
-/* Educator profiles: photograph above individual story box */
+
+/* =========================================
+   EDUCATOR PROFILES
+   ========================================= */
 
 .educator-profile-row {
   display: grid;
@@ -92,7 +101,7 @@
   margin: 15px 0 0;
 }
 
-/* Make educator profile photographs consistent */
+/* Consistent educator photograph dimensions */
 
 .educator-profile-card figure {
   width: 100% !important;
@@ -117,6 +126,8 @@
   object-fit: contain;
 }
 
+/* Center photograph captions */
+
 .educator-profile-card figure figcaption {
   width: 100%;
   height: 30px;
@@ -133,6 +144,7 @@
   margin: 0;
   text-align: center !important;
 }
+
 /* Stack educator profiles on smaller screens */
 
 @media (max-width: 900px) {
@@ -141,5 +153,56 @@
     width: 100%;
     left: auto;
     transform: none;
+  }
+}
+
+
+/* =========================================
+   HOMEPAGE WELCOME SECTION
+   Story box with New Mexico flag
+   ========================================= */
+
+.welcome-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 25px;
+  align-items: start;
+
+  width: min(1400px, calc(100vw - 80px));
+  max-width: none;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+
+  margin: 30px 0;
+}
+
+.welcome-layout .story-box {
+  margin: 0;
+}
+
+/* New Mexico flag */
+
+.nm-flag {
+  display: block;
+  width: 100%;
+  max-width: 260px;
+  height: auto;
+  justify-self: end;
+}
+
+/* Stack welcome section on smaller screens */
+
+@media (max-width: 900px) {
+  .welcome-layout {
+    grid-template-columns: 1fr;
+    width: 100%;
+    left: auto;
+    transform: none;
+  }
+
+  .nm-flag {
+    justify-self: center;
+    max-width: 220px;
   }
 }
