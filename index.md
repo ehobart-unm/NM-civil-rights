@@ -4,6 +4,13 @@ layout: base
 date: 2026-09-16
 ---
 <div class="story-box">
+
+<img
+  src="{{site.baseurl}}/assets/images/NM_Flag.jpg"
+  alt="New Mexico state flag"
+  style="float: right; width: 180px; max-width: 35%; height: auto; margin: 0 0 20px 25px;"
+>
+
 <p>
 Welcome to New Mexico, where we share our home amongst a diverse population. Because New Mexico is a multi-ethnic state, and is considered a "majority-minority" state (defined as a state where non-Hispanic white residents comprise less than 50% of the population).
 </p>
