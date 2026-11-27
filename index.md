@@ -61,8 +61,7 @@ Because of this multi-ethnic diversity, New Mexicans have also been subjected to
   most fierce advocates for Civil Rights, and focuses on the
   twentieth century.
 </p>
-References
-https://www.dws.nm.gov/Portals/0/DM/LMI/NM_Data_Focus_Hispanic_Latino_Ethnicity.pdf
+
 </div>
 </div>
 <!--Your name, photo, bio, and links come from `_data/nav-profile.yml`, not from this file. Edit them there and this block updates.-->
@@ -71,3 +70,5 @@ https://www.dws.nm.gov/Portals/0/DM/LMI/NM_Data_Focus_Hispanic_Latino_Ethnicity.
 
 {% assign essays = site.pages | where: "homepage", true %}
 {% include cards/card-stack.html cards = essays %}
+References
+https://www.dws.nm.gov/Portals/0/DM/LMI/NM_Data_Focus_Hispanic_Latino_Ethnicity.pdf
