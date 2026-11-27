@@ -4,12 +4,14 @@ layout: base
 date: 2026-09-16
 ---
 <div class="story-box">
-
+<p>
 Welcome to New Mexico, where we share our home amongst a diverse population. Because New Mexico is a multi-ethnic state, and is considered a "majority-minority" state (defined as a state where non-Hispanic white residents comprise less than 50% of the population).
-
+</p>
+<p>
 Because of this cultural and ethnic diversity, the people of New Mexico are not always treated equally, which is the story this website hopes to explain.
 <li>As of 2023, nearly 49% of New Mexico residents identified themselves as Hispanic or Latino</li>
 <li>New Mexico is one of only two states in the USA (the other being California) where the largest single demographic group is Hispanic/Latino</li>
+</p>
 <p>
 New Mexico has a very diverse history - the first people to reside in what we now call New Mexico were Paleo-Indian hunter gatherers (approximately 21,000 - 23,000 years ago.  The region started to take on a different demographic composition with the arrival of the Spaniards in the 16th century when the Spanish empire started exploring what is now known as New Mexico. 
 <li>In the 1530s, expeditions led by Cabeza de Vaca and Fray Marcos de Niza were in the area</li>
