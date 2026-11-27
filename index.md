@@ -23,6 +23,7 @@ Because of this multi-ethnic diversity, New Mexicans have also been subjected to
 </div>
 
 # New Mexican Civil Rights in the 20th century
+{: style="text-align: center;"}
 
 <div class="story-box-row">
 
