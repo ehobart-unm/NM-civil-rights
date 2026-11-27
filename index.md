@@ -3,13 +3,9 @@ title: Derechos civiles en Nuevo México
 layout: base
 date: 2026-09-16
 ---
-<div class="story-box">
+<div class="welcome-layout">
 
-<img
-  src="{{site.baseurl}}/assets/images/NM_Flag.jpg"
-  alt="New Mexico state flag"
-  style="float: right; width: 180px; max-width: 35%; height: auto; margin: 0 0 20px 25px;"
->
+  <div class="story-box">
 
 <p>
 Welcome to New Mexico, where we share our home amongst a diverse population. Because New Mexico is a multi-ethnic state, and is considered a "majority-minority" state (defined as a state where non-Hispanic white residents comprise less than 50% of the population).
@@ -28,7 +24,12 @@ New Mexico has a very diverse history - the first people to reside in what we no
 <p>
 Because of this multi-ethnic diversity, New Mexicans have also been subjected to unequal treatment through the years.  This website is intended to provide an initial foray into their story. </p>
 </div>
-
+<img
+  class="nm-flag"
+  src="{{site.baseurl}}/assets/images/NM_flag.jpg"
+  alt="New Mexico state flag"
+>
+</div>
 # New Mexican Civil Rights in the 20th century
 {: style="text-align: center;"}
 
