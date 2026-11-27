@@ -3,6 +3,10 @@ title: Derechos civiles en Nuevo México
 layout: base
 date: 2026-09-16
 ---
+<div class="story-box">
+
+New Mexico is a multiethnic state - a majority-minority state shaped by a large Hispanic/Latino/Chicanx population, a substantial Indigenous (Native American) population, and a non-Hispanic white population.  New Mexico is one of only two states in the United States (the other being California) where the largest single demographic group is Hispanic/Latino/Chicanx.
+</div>
 
 # New Mexican Civil Rights in the 20th century
 
